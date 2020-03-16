@@ -1,3 +1,3 @@
 ## Welcome!
 
-Website under construction.
+Website under construction. I will be adding information and examples shortly!
