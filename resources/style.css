@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+    <title>Matthew Martinez, Ph.D. Homepage</title>
+    <link rel="stylesheet" type="text/css" href="./resources/style.css">
+  </head>
+
+  <body>   
+    <nav>
+      <a href="./index.html">Home</a>
+      <a href="./resume.html">Resume</a>
+      <a href="./projects.html">Research Projects</a>
+      <a href="https://www.linkedin.com/in/matthew-martinez-ph-d-051963139" target="_blank">LinkedIn</a>
+    </nav>
+
+    <section id="content">
+    <div class="resume">
+      <p><strong>Executive Summary </strong><br><br>
+        Accomplished behavioral and social scientist passionate about research methods, statistics, and data science. Expertise in human subjects research; statistical programming; survey and experimental design; data analysis and visualization; geospatial analysis; and social network analysis.
+        <br><br>
+        <strong>Education</strong><br><br>
+        University of Nevada, Las Vegas, Ph.D., Anthropology 	May 2018<br>
+        University of Nevada, Las Vegas, Certificate, Social Science Research Methods	August 2017<br>
+        University of Nevada, Las Vegas, M.A., Anthropology 	December 2014<br>
+        University of Nevada, Las Vegas, B.A., Anthropology 	May 2012<br><br>
+        
+        <strong>Professional Experience</strong><br><br>
+        <strong>Researcher IV</strong><br>
+        Fors Marsh Group	Aug. 2018 - Present<br>
+            • Assists in developing teams’ research objectives and designing surveys for census and large-scale survey data collection<br>
+            • Conducts quantitative and geospatial analyses on diverse sources of data (demographic, survey, and market data)<br>
+            • Interprets analyses and synthesizes into concise reports for technical and non-technical federal government audiences<br><br>
+        <strong>Research Assistant</strong><br>
+        May 2015 – May 2018<br>
+        UNLV Graduate College<br>
+            • Conducted higher education policy research <br>
+            • Conducted program evaluations of graduate student professional development programs<br>
+            • Designed surveys, implemented data collection strategy, and analyzed data<br>
+            • Interpreted and synthesized results from analyses and communicated results through written reports<br><br>
+        <strong>Research & Teaching Assistant</strong><br>
+        Aug. 2012 – May 2015<br>
+        UNLV Department of Anthropology<br>
+            • Instructed six semesters of Biological Anthropology – Laboratory <br>
+            • Designed, developed, and programmed experiments in the Society, Evolution, and Culture Lab<br>
+            • Conducted literature reviews for dissertation chair’s research<br><br>
+          <strong>Skills and Software Proficiency</strong><br>
+            • Extensive training and experience in predictive analytics, applied statistics, and computational research methods, such as: regression (OLS and advanced models), generalized linear models, multivariate statistics, psychometrics, structural equation modeling/latent variable modeling, multi-level modeling, and social network analysis<br>
+            • Proficient in several statistical programming software packages, including: R, Python, SAS, and Stata<br>
+            • Experience with Geographic Information Systems and geospatial data analysis using ArcGIS, QGIS, and R<br>
+            • Proficient in all aspects of research design (developing and validating tests/measures for social research, collecting data, analyzing data, interpreting data, and communicating complex results to diverse audiences)<br>
+            • Eight years of experience with experimental design and human subjects research (design, implementation, IRB, running subjects, analyzing and interpreting data)<br>
+            • Seven years of experience in survey design and survey data analysis<br><br>
+          <strong>Additional Training</strong><br>
+            • Four-week ICPSR quantitative research methods program at the University of Michigan (Summer 2016)<br>
+            • Online data science courses: data visualization (ggplot, Tableau), text analytics (NLP), cluster analysis, and machine learning<br>
+            • Proficient with Qualtrics online survey software and data collection using Amazon Mechanical Turk<br>
+        <strong>References and complete C.V. including list of publications and conferences presentations available upon request/p></strong><br>
+      </div>
+    </section>
+    
+  <footer>
+    Last updated: August 2020
+  </footer>
+
+  </body>
+
+</html>
