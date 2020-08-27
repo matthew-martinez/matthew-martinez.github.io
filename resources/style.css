@@ -2,6 +2,9 @@
     font-family: Helvetica, Arial, sans-serif;
     background-color: lightgray;
     box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
     }
 
 nav {
@@ -12,7 +15,7 @@ nav {
   z-index: 10;
   height: 50px;
   text-align: center;
-  margin: 0 auto;
+  margin: -10px auto;
 }
 
 #content {
@@ -23,12 +26,8 @@ nav {
   top: 80px;
 }
 
-.resume {
-text-align: left;
-}
-
 footer {
-  font-size: 12px;
+  font-size: 14px;
   color: #fff;
   text-align: center;
   position: relative;
@@ -40,7 +39,7 @@ footer {
 
 nav a {
   color: white;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   display: inline-block;
   width: 200px;
@@ -49,18 +48,18 @@ nav a {
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 li ul {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 a {
   text-decoration: none;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 h1, h2 {
-    height: 16px;
+    height: 20px;
 }
