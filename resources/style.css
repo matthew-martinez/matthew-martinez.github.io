@@ -8,15 +8,16 @@
 
 pre {
     font-family: monospace;
-    font-size: 10px;
+    font-size: 8px;
     white-space: pre;
+    z-index: 5;
 }
 
 nav {
   padding: 2.5px;
   z-index: 10;
   height: 50px;
-  margin: -55px 130px;
+  margin: -50px 90px;
 }
 
 #content {
