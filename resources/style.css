@@ -16,12 +16,13 @@ pre {
 nav {
   padding: 2.5px;
   z-index: 10;
-  height: 50px;
-  margin: -50px 90px;
+  height: 75px;
+  margin: -55px 100px;
+  font-size: 24px;
 }
 
 #content {
-  padding-top: 40px;
+  padding-top: 20px;
   margin: 0px;
   text-align: left;
   position: relative;
@@ -37,7 +38,7 @@ footer {
 
 nav a {
   color: black;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
   width: 200px;
   padding-top: 15px;
