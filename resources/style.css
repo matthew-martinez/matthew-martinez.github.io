@@ -1,7 +1,7 @@
 * {
     font-family: monospace, Courier, serif;
     box-sizing: border-box;
-    margin-left: 10px;
+    margin-left: 0px;
     }
 
 pre {
@@ -19,18 +19,10 @@ nav {
   font-size: 24px;
 }
 
-#content {
-  padding-top: 20px;
-  margin: 0px;
-  text-align: left;
-  position: relative;
-  top: 20px;
-}
-
 footer {
   font-size: 14px;
   position: relative;
-  padding-top: 40px;
+  margin-top: 40px;
   width: 100%;
 }
 
@@ -42,12 +34,24 @@ nav a {
   padding-top: 15px;
 }
 
-p {
+p.selector {
+  width: 20%;
   font-size: 18px;
+  margin: 10px;
+  border-color: black;
+  border: 5px black;
+  padding: 5px;
+  display: inline;
 }
 
-li ul {
+p.selector:hover {
+  width: 20%;
   font-size: 18px;
+  margin: 10px;
+  background-color: grey;
+  border: 5px black;
+  cursor:pointer;
+  padding: 5px;
 }
 
 a {
