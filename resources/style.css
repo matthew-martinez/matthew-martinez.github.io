@@ -11,17 +11,20 @@ pre {
     z-index: 5;
     font-weight: bold;
     border-color: black;
-    outline: 1.5px solid;
-    padding-left: 10px;
+    outline: 1.5px solid black;
+    padding-left: 5px;
+    background-color: black;
+    color: white;
 }
 
 nav {
   width:100%;
-  padding: 2.5px;
   z-index: 10;
-  height: 100px;
-  margin: -50px 55px;
-  font-size: 36px;
+  height: 25px;
+  margin-top: -40px;
+  margin-left: 60px;
+  font-size: 26px;
+  color: white;
 }
 
 footer {
@@ -35,6 +38,7 @@ nav a {
   color: black;
   font-size: 26px;
   font-weight: 600;
+  color:white;
 }
 
 p.selector {
@@ -66,5 +70,6 @@ h1, h2 {
 }
 
 #content {
-  margin-top: 25px;
+  width: 65%;
 }
+
