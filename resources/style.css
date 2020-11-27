@@ -12,17 +12,19 @@ pre {
 }
 
 nav {
+  width:100%;
   padding: 2.5px;
   z-index: 10;
   height: 75px;
   margin: -55px 100px;
   font-size: 24px;
+  padding-bottom: 80px;
 }
 
 footer {
   font-size: 14px;
   position: relative;
-  margin-top: 40px;
+  margin-top: 25px;
   width: 100%;
 }
 
@@ -56,9 +58,12 @@ p.selector:hover {
 
 a {
   text-decoration: none;
-  font-size: 18px;
 }
 
 h1, h2 {
   height: 28px;
+}
+
+#content {
+  margin-top: 25px;
 }
