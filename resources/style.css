@@ -16,13 +16,17 @@ pre {
     color: black;
 }
 
+pre:hover{
+  color:#33FF33
+}
+
 nav {
   width:100%;
   z-index: 10;
   height: 25px;
   margin-top: -60px;
   margin-left: 60px;
-  font-size: 26px;
+  font-size: 32px;
   color: black;
   padding-bottom: 7.5%;
 }
@@ -36,7 +40,7 @@ footer {
 
 nav a {
   color: black;
-  font-size: 34px;
+  font-size: 32px;
   font-weight: 600;
   color:black;
 }
