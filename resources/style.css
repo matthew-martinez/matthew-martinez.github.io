@@ -67,7 +67,7 @@ h1, h2 {
   color: #F7F9FB;
 }
 
-#content a, ul {
+#content a, ul, p {
   margin-bottom: 1em;
 }
 
