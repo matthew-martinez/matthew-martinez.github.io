@@ -1,0 +1,46 @@
+body {
+  font-family: Monospace, Courier, serif;
+  background-color: #F7F9FB;
+  }
+
+#title {
+  text-align:center;
+  margin: auto;
+  max-width: 900px;
+  color: #222629;
+}
+
+#instructions {
+  margin: auto;
+  max-width: 900px;
+  text-align:center;
+}
+
+#controls {
+  margin: auto;
+  max-width: 900px;
+  text-align:center;
+  color: #222629;
+}
+
+h3 {
+  font-weight: normal;
+  display: inline;
+  padding: 10px;
+}
+
+h3:hover{
+  margin: auto;
+  max-width: 900px;
+  text-align: center;
+  color: #222629;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#mapid { 
+  margin: auto;
+  width: 50%;
+  height: 600px; 
+}
+
