@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<meta charset="UTF-8">
+
+    <head>
+        <title>Washington, D.C. Crime Activity 2020</title>
+        <link id='theme' rel="stylesheet" type="text/css" href="./resources/leafletTest.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+    </head>
+
+    <body>
+        <h1 id='title'>Crime in Washington D.C., 2020</h1>
+
+        <div id='instructions'>
+            <h3>Select a type of offense to view below.</h3>
+        </div>
+
+        <div id="mapid"></div>
+
+        <div id='controls'>
+            <h2>Type of Offense</h2>
+            <h3 id='arson'>Arson</h3>
+            <h3 id='assault'>Assault</h3>
+            <h3 id='burglary'>Burglary</h3>
+            <h3 id='homicide'>Homicide</h3>
+            <h3 id='motorvehicletheft'>Motor Vehicle Theft</h3>
+            <h3 id='robbery'>Robbery</h3>
+            <h3 id='sexualabuse'>Sexual Abuse</h3>
+            <h3 id='theftauto'>Theft (Auto)</h3>
+            <h3 id='theftother'>Theft (Other)</h3>
+        </div>
+
+        <script src="./resources/js/PapaParse-5.0.2/papaparse.js"></script>
+        <script src="./resources/js/crimeDC.js"></script>
+
+    </body>
+
+</html>
