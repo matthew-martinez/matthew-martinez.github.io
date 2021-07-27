@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<meta charset="UTF-8">
+
+  <head>
+    <title>Housing in the United States</title>
+    <link rel="stylesheet" type="text/css" href="./resources/censusmap.css">
+  </head>
+
+  <body>
+    <h1>Housing Costs in the United States</h1>
+    <p>A quick look at the costs of renting and owning a home in the United States.</p>
+    <div id='instructions'>
+      <p>Select a state.</p>
+    </div>
+    <charts>
+        <div id="map"></div>
+        <div id="line"></div>
+    </charts>
+        <script src="./resources/js/papaparse.js"></script>
+        <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+        <script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+        <script src="./resources/js/datalib.min.js"></script>
+        <script src="./censusmap.js"></script>
+    <p id="note">Note: U.S. Census Bureau American Community Survey 5-year data is used for the map (2015-2019).
+      <br> The time trends use ACS 1-year data for each year from 2006-2019.</p>
+    </body>
+
+</html>
