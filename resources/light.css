@@ -1,10 +1,10 @@
 * {
-    font-family: Monospace, Courier, serif;
+    font-family: "Lucida Console", Monaco, monospace;
     box-sizing: border-box;
     margin-left: 2.5px;
     max-width: 900px;
     margin: auto;
-    background-color: #F7F9FB;
+    background-color: #ffffff;
     }
 
 pre {
@@ -14,11 +14,6 @@ pre {
     z-index: 5;
     font-weight: bold;
     color:  black;
-}
-
-pre:hover{
-  color: #C96567;
-  cursor: pointer;
 }
 
 nav {
@@ -39,7 +34,7 @@ nav a {
 }
 
 nav a:hover{
-  color: #C96567;
+  color: #487daf;
 }
 
 footer {
@@ -54,7 +49,7 @@ footer {
 
 a {
   text-decoration: none;
-  color: #C96567;
+  color: #487daf;
 }
 
 h1, h2 {
