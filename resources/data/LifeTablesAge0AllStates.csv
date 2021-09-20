@@ -1,84 +1,4 @@
 Abbreviation,State,Sex,Year,Age,ex
-AK,Alaska,b,1960,0,67.23
-AK,Alaska,b,1961,0,67.99
-AK,Alaska,b,1964,0,67
-AK,Alaska,b,1965,0,68.64
-AK,Alaska,b,1962,0,67.86
-AK,Alaska,b,1963,0,68.13
-AK,Alaska,b,1959,0,68.68
-AK,Alaska,b,1973,0,70.32
-AK,Alaska,b,1974,0,70.83
-AK,Alaska,b,1975,0,71.63
-AK,Alaska,b,1976,0,71.71
-AK,Alaska,b,1977,0,72.13
-AK,Alaska,b,1978,0,72.12
-AK,Alaska,b,1966,0,69.21
-AK,Alaska,b,1967,0,69.33
-AK,Alaska,b,1968,0,69.24
-AK,Alaska,b,1969,0,70.05
-AK,Alaska,b,1970,0,69.22
-AK,Alaska,b,1971,0,69.47
-AK,Alaska,b,1972,0,70.19
-AK,Alaska,b,1999,0,76.61
-AK,Alaska,b,2000,0,76.15
-AK,Alaska,b,2001,0,76.43
-AK,Alaska,b,2002,0,76.89
-AK,Alaska,b,2003,0,76.62
-AK,Alaska,b,2004,0,77.5
-AK,Alaska,b,2005,0,77.68
-AK,Alaska,b,2006,0,77.34
-AK,Alaska,b,2007,0,77.42
-AK,Alaska,b,2008,0,77.78
-AK,Alaska,b,2009,0,77.78
-AK,Alaska,b,2010,0,77.92
-AK,Alaska,b,2011,0,78.02
-AK,Alaska,b,2012,0,78.25
-AK,Alaska,b,2013,0,78.37
-AK,Alaska,b,2014,0,78.33
-AK,Alaska,b,2015,0,78.03
-AK,Alaska,b,2016,0,77.84
-AK,Alaska,b,2017,0,78.36
-AK,Alaska,b,2018,0,78.78
-AK,Alaska,b,1979,0,72.91
-AK,Alaska,b,1980,0,72.38
-AK,Alaska,b,1981,0,72.97
-AK,Alaska,b,1982,0,73.48
-AK,Alaska,b,1983,0,73.72
-AK,Alaska,b,1984,0,74.16
-AK,Alaska,b,1985,0,73.92
-AK,Alaska,b,1986,0,73.88
-AK,Alaska,b,1987,0,74.5
-AK,Alaska,b,1988,0,74.79
-AK,Alaska,b,1989,0,75.01
-AK,Alaska,b,1990,0,74.96
-AK,Alaska,b,1991,0,75.42
-AK,Alaska,b,1992,0,75.39
-AK,Alaska,b,1993,0,75.54
-AK,Alaska,b,1994,0,75.68
-AK,Alaska,b,1995,0,75.57
-AK,Alaska,b,1996,0,75.83
-AK,Alaska,b,1997,0,76.23
-AK,Alaska,b,1998,0,76.8
-AL,Alabama,b,1979,0,72.36
-AL,Alabama,b,1980,0,72.32
-AL,Alabama,b,1981,0,72.86
-AL,Alabama,b,1982,0,73.31
-AL,Alabama,b,1983,0,73.38
-AL,Alabama,b,1984,0,73.29
-AL,Alabama,b,1985,0,73.3
-AL,Alabama,b,1986,0,73.28
-AL,Alabama,b,1987,0,73.6
-AL,Alabama,b,1988,0,73.35
-AL,Alabama,b,1989,0,73.53
-AL,Alabama,b,1990,0,73.66
-AL,Alabama,b,1991,0,73.64
-AL,Alabama,b,1992,0,74.2
-AL,Alabama,b,1993,0,73.83
-AL,Alabama,b,1994,0,73.94
-AL,Alabama,b,1995,0,73.93
-AL,Alabama,b,1996,0,74
-AL,Alabama,b,1997,0,74.29
-AL,Alabama,b,1998,0,74.29
 AL,Alabama,b,1959,0,68.25
 AL,Alabama,b,1960,0,67.91
 AL,Alabama,b,1961,0,68.56
@@ -99,6 +19,32 @@ AL,Alabama,b,1975,0,71.03
 AL,Alabama,b,1976,0,71.21
 AL,Alabama,b,1977,0,71.38
 AL,Alabama,b,1978,0,71.91
+AL,Alabama,b,1979,0,72.36
+AL,Alabama,b,1980,0,72.32
+AL,Alabama,b,1981,0,72.86
+AL,Alabama,b,1982,0,73.31
+AL,Alabama,b,1983,0,73.38
+AL,Alabama,b,1984,0,73.29
+AL,Alabama,b,1985,0,73.3
+AL,Alabama,b,1986,0,73.28
+AL,Alabama,b,1987,0,73.6
+AL,Alabama,b,1988,0,73.35
+AL,Alabama,b,1989,0,73.53
+AL,Alabama,b,1990,0,73.66
+AL,Alabama,b,1991,0,73.64
+AL,Alabama,b,1992,0,74.2
+AL,Alabama,b,1993,0,73.83
+AL,Alabama,b,1994,0,73.94
+AL,Alabama,b,1995,0,73.93
+AL,Alabama,b,1996,0,74
+AL,Alabama,b,1997,0,74.29
+AL,Alabama,b,1998,0,74.29
+AL,Alabama,b,1999,0,74.26
+AL,Alabama,b,2000,0,74.42
+AL,Alabama,b,2001,0,74.51
+AL,Alabama,b,2002,0,74.5
+AL,Alabama,b,2003,0,74.48
+AL,Alabama,b,2004,0,74.63
 AL,Alabama,b,2005,0,74.57
 AL,Alabama,b,2006,0,74.6
 AL,Alabama,b,2007,0,74.9
@@ -106,99 +52,73 @@ AL,Alabama,b,2008,0,74.97
 AL,Alabama,b,2009,0,75.29
 AL,Alabama,b,2010,0,75.34
 AL,Alabama,b,2011,0,75.39
-AL,Alabama,b,1999,0,74.26
-AL,Alabama,b,2000,0,74.42
-AL,Alabama,b,2001,0,74.51
-AL,Alabama,b,2002,0,74.5
-AL,Alabama,b,2003,0,74.48
-AL,Alabama,b,2004,0,74.63
-AL,Alabama,b,2018,0,75.4
-AL,Alabama,b,2014,0,75.54
-AL,Alabama,b,2015,0,75.36
 AL,Alabama,b,2012,0,75.42
 AL,Alabama,b,2013,0,75.39
+AL,Alabama,b,2014,0,75.54
+AL,Alabama,b,2015,0,75.36
 AL,Alabama,b,2016,0,75.19
 AL,Alabama,b,2017,0,75.4
-AR,Arkansas,b,1960,0,69.89
-AR,Arkansas,b,1961,0,70.47
-AR,Arkansas,b,1964,0,69.83
-AR,Arkansas,b,1965,0,70.29
-AR,Arkansas,b,1962,0,69.77
-AR,Arkansas,b,1963,0,69.57
-AR,Arkansas,b,1959,0,70.37
-AR,Arkansas,b,1973,0,71.03
-AR,Arkansas,b,1974,0,71.43
-AR,Arkansas,b,1975,0,72
-AR,Arkansas,b,1976,0,72.72
-AR,Arkansas,b,1977,0,73.07
-AR,Arkansas,b,1978,0,72.95
-AR,Arkansas,b,1966,0,70.42
-AR,Arkansas,b,1967,0,70.65
-AR,Arkansas,b,1968,0,70.01
-AR,Arkansas,b,1969,0,70.32
-AR,Arkansas,b,1970,0,70.75
-AR,Arkansas,b,1971,0,70.94
-AR,Arkansas,b,1972,0,70.9
-AR,Arkansas,b,1999,0,74.95
-AR,Arkansas,b,2000,0,74.78
-AR,Arkansas,b,2001,0,75.05
-AR,Arkansas,b,2002,0,74.82
-AR,Arkansas,b,2003,0,75.15
-AR,Arkansas,b,2004,0,75.27
-AR,Arkansas,b,2005,0,75.34
-AR,Arkansas,b,2006,0,75.45
-AR,Arkansas,b,2007,0,75.65
-AR,Arkansas,b,2008,0,75.34
-AR,Arkansas,b,2009,0,75.73
-AR,Arkansas,b,2010,0,75.99
-AR,Arkansas,b,2011,0,75.89
-AR,Arkansas,b,2012,0,75.83
-AR,Arkansas,b,2013,0,75.88
-AR,Arkansas,b,2014,0,75.97
-AR,Arkansas,b,2015,0,75.7
-AR,Arkansas,b,2016,0,75.76
-AR,Arkansas,b,2017,0,75.62
-AR,Arkansas,b,2018,0,76
-AR,Arkansas,b,1979,0,73.72
-AR,Arkansas,b,1980,0,73.34
-AR,Arkansas,b,1981,0,73.88
-AR,Arkansas,b,1982,0,74.17
-AR,Arkansas,b,1983,0,74.04
-AR,Arkansas,b,1984,0,73.99
-AR,Arkansas,b,1985,0,73.85
-AR,Arkansas,b,1986,0,74.15
-AR,Arkansas,b,1987,0,74.06
-AR,Arkansas,b,1988,0,73.98
-AR,Arkansas,b,1989,0,74.22
-AR,Arkansas,b,1990,0,74.35
-AR,Arkansas,b,1991,0,74.3
-AR,Arkansas,b,1992,0,74.6
-AR,Arkansas,b,1993,0,74.17
-AR,Arkansas,b,1994,0,74.44
-AR,Arkansas,b,1995,0,74.55
-AR,Arkansas,b,1996,0,74.82
-AR,Arkansas,b,1997,0,74.43
-AR,Arkansas,b,1998,0,74.84
-AZ,Arizona,b,1979,0,74.31
-AZ,Arizona,b,1980,0,74.17
-AZ,Arizona,b,1981,0,74.79
-AZ,Arizona,b,1982,0,75.25
-AZ,Arizona,b,1983,0,75.49
-AZ,Arizona,b,1984,0,75.29
-AZ,Arizona,b,1985,0,75.53
-AZ,Arizona,b,1986,0,75.54
-AZ,Arizona,b,1987,0,75.46
-AZ,Arizona,b,1988,0,75.66
-AZ,Arizona,b,1989,0,75.93
-AZ,Arizona,b,1990,0,76.23
-AZ,Arizona,b,1991,0,76.37
-AZ,Arizona,b,1992,0,76.32
-AZ,Arizona,b,1993,0,76.07
-AZ,Arizona,b,1994,0,76.21
-AZ,Arizona,b,1995,0,76.41
-AZ,Arizona,b,1996,0,76.61
-AZ,Arizona,b,1997,0,77.02
-AZ,Arizona,b,1998,0,77.05
+AL,Alabama,b,2018,0,75.4
+AK,Alaska,b,1959,0,68.68
+AK,Alaska,b,1960,0,67.23
+AK,Alaska,b,1961,0,67.99
+AK,Alaska,b,1962,0,67.86
+AK,Alaska,b,1963,0,68.13
+AK,Alaska,b,1964,0,67
+AK,Alaska,b,1965,0,68.64
+AK,Alaska,b,1966,0,69.21
+AK,Alaska,b,1967,0,69.33
+AK,Alaska,b,1968,0,69.24
+AK,Alaska,b,1969,0,70.05
+AK,Alaska,b,1970,0,69.22
+AK,Alaska,b,1971,0,69.47
+AK,Alaska,b,1972,0,70.19
+AK,Alaska,b,1973,0,70.32
+AK,Alaska,b,1974,0,70.83
+AK,Alaska,b,1975,0,71.63
+AK,Alaska,b,1976,0,71.71
+AK,Alaska,b,1977,0,72.13
+AK,Alaska,b,1978,0,72.12
+AK,Alaska,b,1979,0,72.91
+AK,Alaska,b,1980,0,72.38
+AK,Alaska,b,1981,0,72.97
+AK,Alaska,b,1982,0,73.48
+AK,Alaska,b,1983,0,73.72
+AK,Alaska,b,1984,0,74.16
+AK,Alaska,b,1985,0,73.92
+AK,Alaska,b,1986,0,73.88
+AK,Alaska,b,1987,0,74.5
+AK,Alaska,b,1988,0,74.79
+AK,Alaska,b,1989,0,75.01
+AK,Alaska,b,1990,0,74.96
+AK,Alaska,b,1991,0,75.42
+AK,Alaska,b,1992,0,75.39
+AK,Alaska,b,1993,0,75.54
+AK,Alaska,b,1994,0,75.68
+AK,Alaska,b,1995,0,75.57
+AK,Alaska,b,1996,0,75.83
+AK,Alaska,b,1997,0,76.23
+AK,Alaska,b,1998,0,76.8
+AK,Alaska,b,1999,0,76.61
+AK,Alaska,b,2000,0,76.15
+AK,Alaska,b,2001,0,76.43
+AK,Alaska,b,2002,0,76.89
+AK,Alaska,b,2003,0,76.62
+AK,Alaska,b,2004,0,77.5
+AK,Alaska,b,2005,0,77.68
+AK,Alaska,b,2006,0,77.34
+AK,Alaska,b,2007,0,77.42
+AK,Alaska,b,2008,0,77.78
+AK,Alaska,b,2009,0,77.78
+AK,Alaska,b,2010,0,77.92
+AK,Alaska,b,2011,0,78.02
+AK,Alaska,b,2012,0,78.25
+AK,Alaska,b,2013,0,78.37
+AK,Alaska,b,2014,0,78.33
+AK,Alaska,b,2015,0,78.03
+AK,Alaska,b,2016,0,77.84
+AK,Alaska,b,2017,0,78.36
+AK,Alaska,b,2018,0,78.78
 AZ,Arizona,b,1959,0,69.43
 AZ,Arizona,b,1960,0,69.25
 AZ,Arizona,b,1961,0,69.44
@@ -219,6 +139,32 @@ AZ,Arizona,b,1975,0,73.28
 AZ,Arizona,b,1976,0,73.68
 AZ,Arizona,b,1977,0,73.89
 AZ,Arizona,b,1978,0,73.89
+AZ,Arizona,b,1979,0,74.31
+AZ,Arizona,b,1980,0,74.17
+AZ,Arizona,b,1981,0,74.79
+AZ,Arizona,b,1982,0,75.25
+AZ,Arizona,b,1983,0,75.49
+AZ,Arizona,b,1984,0,75.29
+AZ,Arizona,b,1985,0,75.53
+AZ,Arizona,b,1986,0,75.54
+AZ,Arizona,b,1987,0,75.46
+AZ,Arizona,b,1988,0,75.66
+AZ,Arizona,b,1989,0,75.93
+AZ,Arizona,b,1990,0,76.23
+AZ,Arizona,b,1991,0,76.37
+AZ,Arizona,b,1992,0,76.32
+AZ,Arizona,b,1993,0,76.07
+AZ,Arizona,b,1994,0,76.21
+AZ,Arizona,b,1995,0,76.41
+AZ,Arizona,b,1996,0,76.61
+AZ,Arizona,b,1997,0,77.02
+AZ,Arizona,b,1998,0,77.05
+AZ,Arizona,b,1999,0,77
+AZ,Arizona,b,2000,0,77.14
+AZ,Arizona,b,2001,0,77.3
+AZ,Arizona,b,2002,0,77.26
+AZ,Arizona,b,2003,0,77.46
+AZ,Arizona,b,2004,0,77.84
 AZ,Arizona,b,2005,0,77.55
 AZ,Arizona,b,2006,0,77.75
 AZ,Arizona,b,2007,0,78.34
@@ -226,19 +172,73 @@ AZ,Arizona,b,2008,0,78.75
 AZ,Arizona,b,2009,0,79.04
 AZ,Arizona,b,2010,0,79.23
 AZ,Arizona,b,2011,0,79.29
-AZ,Arizona,b,1999,0,77
-AZ,Arizona,b,2000,0,77.14
-AZ,Arizona,b,2001,0,77.3
-AZ,Arizona,b,2002,0,77.26
-AZ,Arizona,b,2003,0,77.46
-AZ,Arizona,b,2004,0,77.84
-AZ,Arizona,b,2018,0,79.51
-AZ,Arizona,b,2014,0,79.6
-AZ,Arizona,b,2015,0,79.48
 AZ,Arizona,b,2012,0,79.32
 AZ,Arizona,b,2013,0,79.48
+AZ,Arizona,b,2014,0,79.6
+AZ,Arizona,b,2015,0,79.48
 AZ,Arizona,b,2016,0,79.29
 AZ,Arizona,b,2017,0,79.47
+AZ,Arizona,b,2018,0,79.51
+AR,Arkansas,b,1959,0,70.37
+AR,Arkansas,b,1960,0,69.89
+AR,Arkansas,b,1961,0,70.47
+AR,Arkansas,b,1962,0,69.77
+AR,Arkansas,b,1963,0,69.57
+AR,Arkansas,b,1964,0,69.83
+AR,Arkansas,b,1965,0,70.29
+AR,Arkansas,b,1966,0,70.42
+AR,Arkansas,b,1967,0,70.65
+AR,Arkansas,b,1968,0,70.01
+AR,Arkansas,b,1969,0,70.32
+AR,Arkansas,b,1970,0,70.75
+AR,Arkansas,b,1971,0,70.94
+AR,Arkansas,b,1972,0,70.9
+AR,Arkansas,b,1973,0,71.03
+AR,Arkansas,b,1974,0,71.43
+AR,Arkansas,b,1975,0,72
+AR,Arkansas,b,1976,0,72.72
+AR,Arkansas,b,1977,0,73.07
+AR,Arkansas,b,1978,0,72.95
+AR,Arkansas,b,1979,0,73.72
+AR,Arkansas,b,1980,0,73.34
+AR,Arkansas,b,1981,0,73.88
+AR,Arkansas,b,1982,0,74.17
+AR,Arkansas,b,1983,0,74.04
+AR,Arkansas,b,1984,0,73.99
+AR,Arkansas,b,1985,0,73.85
+AR,Arkansas,b,1986,0,74.15
+AR,Arkansas,b,1987,0,74.06
+AR,Arkansas,b,1988,0,73.98
+AR,Arkansas,b,1989,0,74.22
+AR,Arkansas,b,1990,0,74.35
+AR,Arkansas,b,1991,0,74.3
+AR,Arkansas,b,1992,0,74.6
+AR,Arkansas,b,1993,0,74.17
+AR,Arkansas,b,1994,0,74.44
+AR,Arkansas,b,1995,0,74.55
+AR,Arkansas,b,1996,0,74.82
+AR,Arkansas,b,1997,0,74.43
+AR,Arkansas,b,1998,0,74.84
+AR,Arkansas,b,1999,0,74.95
+AR,Arkansas,b,2000,0,74.78
+AR,Arkansas,b,2001,0,75.05
+AR,Arkansas,b,2002,0,74.82
+AR,Arkansas,b,2003,0,75.15
+AR,Arkansas,b,2004,0,75.27
+AR,Arkansas,b,2005,0,75.34
+AR,Arkansas,b,2006,0,75.45
+AR,Arkansas,b,2007,0,75.65
+AR,Arkansas,b,2008,0,75.34
+AR,Arkansas,b,2009,0,75.73
+AR,Arkansas,b,2010,0,75.99
+AR,Arkansas,b,2011,0,75.89
+AR,Arkansas,b,2012,0,75.83
+AR,Arkansas,b,2013,0,75.88
+AR,Arkansas,b,2014,0,75.97
+AR,Arkansas,b,2015,0,75.7
+AR,Arkansas,b,2016,0,75.76
+AR,Arkansas,b,2017,0,75.62
+AR,Arkansas,b,2018,0,76
 CA,California,b,1959,0,71.18
 CA,California,b,1960,0,70.83
 CA,California,b,1961,0,71.07
@@ -419,86 +419,6 @@ CT,Connecticut,b,2015,0,80.82
 CT,Connecticut,b,2016,0,80.87
 CT,Connecticut,b,2017,0,80.7
 CT,Connecticut,b,2018,0,80.86
-DC,District of Columbia,b,1960,0,66.32
-DC,District of Columbia,b,1961,0,66.54
-DC,District of Columbia,b,1964,0,65.84
-DC,District of Columbia,b,1965,0,65.94
-DC,District of Columbia,b,1962,0,66.63
-DC,District of Columbia,b,1963,0,65.98
-DC,District of Columbia,b,1959,0,66.1
-DC,District of Columbia,b,1973,0,66.82
-DC,District of Columbia,b,1974,0,66.99
-DC,District of Columbia,b,1975,0,67.43
-DC,District of Columbia,b,1976,0,68.31
-DC,District of Columbia,b,1977,0,68.27
-DC,District of Columbia,b,1978,0,68.75
-DC,District of Columbia,b,1966,0,65.47
-DC,District of Columbia,b,1967,0,65.95
-DC,District of Columbia,b,1968,0,65.94
-DC,District of Columbia,b,1969,0,65.43
-DC,District of Columbia,b,1970,0,65.15
-DC,District of Columbia,b,1971,0,65.65
-DC,District of Columbia,b,1972,0,66.12
-DC,District of Columbia,b,1999,0,71.58
-DC,District of Columbia,b,2000,0,72.07
-DC,District of Columbia,b,2001,0,72.31
-DC,District of Columbia,b,2002,0,72.54
-DC,District of Columbia,b,2003,0,73.24
-DC,District of Columbia,b,2004,0,73.48
-DC,District of Columbia,b,2005,0,73.47
-DC,District of Columbia,b,2006,0,73.98
-DC,District of Columbia,b,2007,0,74.53
-DC,District of Columbia,b,2008,0,74.72
-DC,District of Columbia,b,2009,0,76
-DC,District of Columbia,b,2010,0,76.93
-DC,District of Columbia,b,2011,0,77.75
-DC,District of Columbia,b,2012,0,77.99
-DC,District of Columbia,b,2013,0,78.32
-DC,District of Columbia,b,2014,0,78.42
-DC,District of Columbia,b,2015,0,78.19
-DC,District of Columbia,b,2016,0,77.95
-DC,District of Columbia,b,2017,0,78.36
-DC,District of Columbia,b,2018,0,78.52
-DC,District of Columbia,b,1979,0,69.32
-DC,District of Columbia,b,1980,0,68.85
-DC,District of Columbia,b,1981,0,68.84
-DC,District of Columbia,b,1982,0,69.93
-DC,District of Columbia,b,1983,0,70.15
-DC,District of Columbia,b,1984,0,69.75
-DC,District of Columbia,b,1985,0,69.5
-DC,District of Columbia,b,1986,0,68.77
-DC,District of Columbia,b,1987,0,68.36
-DC,District of Columbia,b,1988,0,67.46
-DC,District of Columbia,b,1989,0,67
-DC,District of Columbia,b,1990,0,67.44
-DC,District of Columbia,b,1991,0,67.53
-DC,District of Columbia,b,1992,0,67.71
-DC,District of Columbia,b,1993,0,67.49
-DC,District of Columbia,b,1994,0,67.22
-DC,District of Columbia,b,1995,0,68.1
-DC,District of Columbia,b,1996,0,68.85
-DC,District of Columbia,b,1997,0,70.67
-DC,District of Columbia,b,1998,0,71.38
-DE,Delaware,b,1979,0,73.17
-DE,Delaware,b,1980,0,73.15
-DE,Delaware,b,1981,0,73.6
-DE,Delaware,b,1982,0,73.7
-DE,Delaware,b,1983,0,74.58
-DE,Delaware,b,1984,0,74.61
-DE,Delaware,b,1985,0,73.93
-DE,Delaware,b,1986,0,74.11
-DE,Delaware,b,1987,0,74.39
-DE,Delaware,b,1988,0,74.26
-DE,Delaware,b,1989,0,74.37
-DE,Delaware,b,1990,0,75.03
-DE,Delaware,b,1991,0,75.1
-DE,Delaware,b,1992,0,75.49
-DE,Delaware,b,1993,0,75.42
-DE,Delaware,b,1994,0,75.33
-DE,Delaware,b,1995,0,75.78
-DE,Delaware,b,1996,0,75.74
-DE,Delaware,b,1997,0,76.16
-DE,Delaware,b,1998,0,76.34
 DE,Delaware,b,1959,0,69.65
 DE,Delaware,b,1960,0,69.08
 DE,Delaware,b,1961,0,69.87
@@ -519,6 +439,32 @@ DE,Delaware,b,1975,0,72.42
 DE,Delaware,b,1976,0,72.74
 DE,Delaware,b,1977,0,73.22
 DE,Delaware,b,1978,0,72.92
+DE,Delaware,b,1979,0,73.17
+DE,Delaware,b,1980,0,73.15
+DE,Delaware,b,1981,0,73.6
+DE,Delaware,b,1982,0,73.7
+DE,Delaware,b,1983,0,74.58
+DE,Delaware,b,1984,0,74.61
+DE,Delaware,b,1985,0,73.93
+DE,Delaware,b,1986,0,74.11
+DE,Delaware,b,1987,0,74.39
+DE,Delaware,b,1988,0,74.26
+DE,Delaware,b,1989,0,74.37
+DE,Delaware,b,1990,0,75.03
+DE,Delaware,b,1991,0,75.1
+DE,Delaware,b,1992,0,75.49
+DE,Delaware,b,1993,0,75.42
+DE,Delaware,b,1994,0,75.33
+DE,Delaware,b,1995,0,75.78
+DE,Delaware,b,1996,0,75.74
+DE,Delaware,b,1997,0,76.16
+DE,Delaware,b,1998,0,76.34
+DE,Delaware,b,1999,0,76.69
+DE,Delaware,b,2000,0,76.39
+DE,Delaware,b,2001,0,76.19
+DE,Delaware,b,2002,0,77.05
+DE,Delaware,b,2003,0,76.99
+DE,Delaware,b,2004,0,77.09
 DE,Delaware,b,2005,0,77.16
 DE,Delaware,b,2006,0,77.69
 DE,Delaware,b,2007,0,78.01
@@ -526,19 +472,73 @@ DE,Delaware,b,2008,0,77.66
 DE,Delaware,b,2009,0,78.17
 DE,Delaware,b,2010,0,78.24
 DE,Delaware,b,2011,0,78.28
-DE,Delaware,b,1999,0,76.69
-DE,Delaware,b,2000,0,76.39
-DE,Delaware,b,2001,0,76.19
-DE,Delaware,b,2002,0,77.05
-DE,Delaware,b,2003,0,76.99
-DE,Delaware,b,2004,0,77.09
-DE,Delaware,b,2018,0,78.19
-DE,Delaware,b,2014,0,78.88
-DE,Delaware,b,2015,0,78.47
 DE,Delaware,b,2012,0,78.61
 DE,Delaware,b,2013,0,78.9
+DE,Delaware,b,2014,0,78.88
+DE,Delaware,b,2015,0,78.47
 DE,Delaware,b,2016,0,78.39
 DE,Delaware,b,2017,0,78.28
+DE,Delaware,b,2018,0,78.19
+DC,District of Columbia,b,1959,0,66.1
+DC,District of Columbia,b,1960,0,66.32
+DC,District of Columbia,b,1961,0,66.54
+DC,District of Columbia,b,1962,0,66.63
+DC,District of Columbia,b,1963,0,65.98
+DC,District of Columbia,b,1964,0,65.84
+DC,District of Columbia,b,1965,0,65.94
+DC,District of Columbia,b,1966,0,65.47
+DC,District of Columbia,b,1967,0,65.95
+DC,District of Columbia,b,1968,0,65.94
+DC,District of Columbia,b,1969,0,65.43
+DC,District of Columbia,b,1970,0,65.15
+DC,District of Columbia,b,1971,0,65.65
+DC,District of Columbia,b,1972,0,66.12
+DC,District of Columbia,b,1973,0,66.82
+DC,District of Columbia,b,1974,0,66.99
+DC,District of Columbia,b,1975,0,67.43
+DC,District of Columbia,b,1976,0,68.31
+DC,District of Columbia,b,1977,0,68.27
+DC,District of Columbia,b,1978,0,68.75
+DC,District of Columbia,b,1979,0,69.32
+DC,District of Columbia,b,1980,0,68.85
+DC,District of Columbia,b,1981,0,68.84
+DC,District of Columbia,b,1982,0,69.93
+DC,District of Columbia,b,1983,0,70.15
+DC,District of Columbia,b,1984,0,69.75
+DC,District of Columbia,b,1985,0,69.5
+DC,District of Columbia,b,1986,0,68.77
+DC,District of Columbia,b,1987,0,68.36
+DC,District of Columbia,b,1988,0,67.46
+DC,District of Columbia,b,1989,0,67
+DC,District of Columbia,b,1990,0,67.44
+DC,District of Columbia,b,1991,0,67.53
+DC,District of Columbia,b,1992,0,67.71
+DC,District of Columbia,b,1993,0,67.49
+DC,District of Columbia,b,1994,0,67.22
+DC,District of Columbia,b,1995,0,68.1
+DC,District of Columbia,b,1996,0,68.85
+DC,District of Columbia,b,1997,0,70.67
+DC,District of Columbia,b,1998,0,71.38
+DC,District of Columbia,b,1999,0,71.58
+DC,District of Columbia,b,2000,0,72.07
+DC,District of Columbia,b,2001,0,72.31
+DC,District of Columbia,b,2002,0,72.54
+DC,District of Columbia,b,2003,0,73.24
+DC,District of Columbia,b,2004,0,73.48
+DC,District of Columbia,b,2005,0,73.47
+DC,District of Columbia,b,2006,0,73.98
+DC,District of Columbia,b,2007,0,74.53
+DC,District of Columbia,b,2008,0,74.72
+DC,District of Columbia,b,2009,0,76
+DC,District of Columbia,b,2010,0,76.93
+DC,District of Columbia,b,2011,0,77.75
+DC,District of Columbia,b,2012,0,77.99
+DC,District of Columbia,b,2013,0,78.32
+DC,District of Columbia,b,2014,0,78.42
+DC,District of Columbia,b,2015,0,78.19
+DC,District of Columbia,b,2016,0,77.95
+DC,District of Columbia,b,2017,0,78.36
+DC,District of Columbia,b,2018,0,78.52
 FL,Florida,b,1959,0,70.34
 FL,Florida,b,1960,0,69.87
 FL,Florida,b,1961,0,70.45
@@ -719,13 +719,199 @@ HI,Hawaii,b,2015,0,81.52
 HI,Hawaii,b,2016,0,81.82
 HI,Hawaii,b,2017,0,81.6
 HI,Hawaii,b,2018,0,81.87
+ID,Idaho,b,1959,0,71.07
+ID,Idaho,b,1960,0,71.4
+ID,Idaho,b,1961,0,71.29
+ID,Idaho,b,1962,0,71.38
+ID,Idaho,b,1963,0,71.25
+ID,Idaho,b,1964,0,71.47
+ID,Idaho,b,1965,0,71.22
+ID,Idaho,b,1966,0,71.48
+ID,Idaho,b,1967,0,72.06
+ID,Idaho,b,1968,0,71.97
+ID,Idaho,b,1969,0,71.89
+ID,Idaho,b,1970,0,72.01
+ID,Idaho,b,1971,0,72.14
+ID,Idaho,b,1972,0,72.32
+ID,Idaho,b,1973,0,72.72
+ID,Idaho,b,1974,0,73.04
+ID,Idaho,b,1975,0,73.55
+ID,Idaho,b,1976,0,73.63
+ID,Idaho,b,1977,0,74.35
+ID,Idaho,b,1978,0,74.7
+ID,Idaho,b,1979,0,75.43
+ID,Idaho,b,1980,0,75.16
+ID,Idaho,b,1981,0,75.33
+ID,Idaho,b,1982,0,75.67
+ID,Idaho,b,1983,0,75.51
+ID,Idaho,b,1984,0,75.75
+ID,Idaho,b,1985,0,76.37
+ID,Idaho,b,1986,0,75.99
+ID,Idaho,b,1987,0,76.38
+ID,Idaho,b,1988,0,76.18
+ID,Idaho,b,1989,0,76.75
+ID,Idaho,b,1990,0,77.21
+ID,Idaho,b,1991,0,77.19
+ID,Idaho,b,1992,0,77.36
+ID,Idaho,b,1993,0,77.17
+ID,Idaho,b,1994,0,77.36
+ID,Idaho,b,1995,0,77.6
+ID,Idaho,b,1996,0,77.74
+ID,Idaho,b,1997,0,77.75
+ID,Idaho,b,1998,0,77.88
+ID,Idaho,b,1999,0,77.77
+ID,Idaho,b,2000,0,78.08
+ID,Idaho,b,2001,0,78.14
+ID,Idaho,b,2002,0,78.34
+ID,Idaho,b,2003,0,78.15
+ID,Idaho,b,2004,0,78.71
+ID,Idaho,b,2005,0,78.69
+ID,Idaho,b,2006,0,78.86
+ID,Idaho,b,2007,0,79.03
+ID,Idaho,b,2008,0,79.28
+ID,Idaho,b,2009,0,79.36
+ID,Idaho,b,2010,0,79.4
+ID,Idaho,b,2011,0,79.27
+ID,Idaho,b,2012,0,79.54
+ID,Idaho,b,2013,0,79.2
+ID,Idaho,b,2014,0,79.34
+ID,Idaho,b,2015,0,79.4
+ID,Idaho,b,2016,0,79.28
+ID,Idaho,b,2017,0,79.22
+ID,Idaho,b,2018,0,79.3
+IL,Illinois,b,1959,0,69.57
+IL,Illinois,b,1960,0,69.55
+IL,Illinois,b,1961,0,69.95
+IL,Illinois,b,1962,0,69.86
+IL,Illinois,b,1963,0,69.65
+IL,Illinois,b,1964,0,69.75
+IL,Illinois,b,1965,0,69.7
+IL,Illinois,b,1966,0,69.44
+IL,Illinois,b,1967,0,69.75
+IL,Illinois,b,1968,0,69.47
+IL,Illinois,b,1969,0,69.81
+IL,Illinois,b,1970,0,70.06
+IL,Illinois,b,1971,0,70.44
+IL,Illinois,b,1972,0,70.62
+IL,Illinois,b,1973,0,70.65
+IL,Illinois,b,1974,0,71.14
+IL,Illinois,b,1975,0,71.81
+IL,Illinois,b,1976,0,72.22
+IL,Illinois,b,1977,0,72.47
+IL,Illinois,b,1978,0,72.74
+IL,Illinois,b,1979,0,73.04
+IL,Illinois,b,1980,0,73.26
+IL,Illinois,b,1981,0,73.6
+IL,Illinois,b,1982,0,73.98
+IL,Illinois,b,1983,0,74.05
+IL,Illinois,b,1984,0,74.42
+IL,Illinois,b,1985,0,74.42
+IL,Illinois,b,1986,0,74.34
+IL,Illinois,b,1987,0,74.61
+IL,Illinois,b,1988,0,74.39
+IL,Illinois,b,1989,0,74.64
+IL,Illinois,b,1990,0,74.92
+IL,Illinois,b,1991,0,74.95
+IL,Illinois,b,1992,0,75.41
+IL,Illinois,b,1993,0,75.08
+IL,Illinois,b,1994,0,75.17
+IL,Illinois,b,1995,0,75.31
+IL,Illinois,b,1996,0,75.81
+IL,Illinois,b,1997,0,76.37
+IL,Illinois,b,1998,0,76.4
+IL,Illinois,b,1999,0,76.23
+IL,Illinois,b,2000,0,76.55
+IL,Illinois,b,2001,0,76.81
+IL,Illinois,b,2002,0,76.88
+IL,Illinois,b,2003,0,77.14
+IL,Illinois,b,2004,0,77.58
+IL,Illinois,b,2005,0,77.63
+IL,Illinois,b,2006,0,77.95
+IL,Illinois,b,2007,0,78.29
+IL,Illinois,b,2008,0,78.17
+IL,Illinois,b,2009,0,78.66
+IL,Illinois,b,2010,0,78.95
+IL,Illinois,b,2011,0,79
+IL,Illinois,b,2012,0,79.14
+IL,Illinois,b,2013,0,79.3
+IL,Illinois,b,2014,0,79.22
+IL,Illinois,b,2015,0,79.21
+IL,Illinois,b,2016,0,79.15
+IL,Illinois,b,2017,0,79.06
+IL,Illinois,b,2018,0,79.16
+IN,Indiana,b,1959,0,70.49
+IN,Indiana,b,1960,0,70.26
+IN,Indiana,b,1961,0,70.69
+IN,Indiana,b,1962,0,70.53
+IN,Indiana,b,1963,0,70.03
+IN,Indiana,b,1964,0,70.47
+IN,Indiana,b,1965,0,70.39
+IN,Indiana,b,1966,0,70.3
+IN,Indiana,b,1967,0,70.64
+IN,Indiana,b,1968,0,70.32
+IN,Indiana,b,1969,0,70.52
+IN,Indiana,b,1970,0,70.94
+IN,Indiana,b,1971,0,71.17
+IN,Indiana,b,1972,0,71.29
+IN,Indiana,b,1973,0,71.3
+IN,Indiana,b,1974,0,72.01
+IN,Indiana,b,1975,0,72.63
+IN,Indiana,b,1976,0,72.88
+IN,Indiana,b,1977,0,72.98
+IN,Indiana,b,1978,0,73.19
+IN,Indiana,b,1979,0,73.61
+IN,Indiana,b,1980,0,73.85
+IN,Indiana,b,1981,0,74.05
+IN,Indiana,b,1982,0,74.54
+IN,Indiana,b,1983,0,74.51
+IN,Indiana,b,1984,0,74.74
+IN,Indiana,b,1985,0,74.76
+IN,Indiana,b,1986,0,74.59
+IN,Indiana,b,1987,0,74.99
+IN,Indiana,b,1988,0,74.85
+IN,Indiana,b,1989,0,75.33
+IN,Indiana,b,1990,0,75.4
+IN,Indiana,b,1991,0,75.45
+IN,Indiana,b,1992,0,75.79
+IN,Indiana,b,1993,0,75.51
+IN,Indiana,b,1994,0,75.61
+IN,Indiana,b,1995,0,75.54
+IN,Indiana,b,1996,0,75.89
+IN,Indiana,b,1997,0,76.05
+IN,Indiana,b,1998,0,76.17
+IN,Indiana,b,1999,0,75.98
+IN,Indiana,b,2000,0,76.02
+IN,Indiana,b,2001,0,76.27
+IN,Indiana,b,2002,0,76.41
+IN,Indiana,b,2003,0,76.41
+IN,Indiana,b,2004,0,76.88
+IN,Indiana,b,2005,0,76.74
+IN,Indiana,b,2006,0,76.85
+IN,Indiana,b,2007,0,77.42
+IN,Indiana,b,2008,0,77.17
+IN,Indiana,b,2009,0,77.43
+IN,Indiana,b,2010,0,77.54
+IN,Indiana,b,2011,0,77.45
+IN,Indiana,b,2012,0,77.49
+IN,Indiana,b,2013,0,77.34
+IN,Indiana,b,2014,0,77.43
+IN,Indiana,b,2015,0,77.21
+IN,Indiana,b,2016,0,77.08
+IN,Indiana,b,2017,0,76.81
+IN,Indiana,b,2018,0,77.12
+IA,Iowa,b,1959,0,71.83
 IA,Iowa,b,1960,0,71.92
 IA,Iowa,b,1961,0,72.24
-IA,Iowa,b,1959,0,71.83
-IA,Iowa,b,1964,0,72.09
-IA,Iowa,b,1965,0,72.1
 IA,Iowa,b,1962,0,72.28
 IA,Iowa,b,1963,0,72.08
+IA,Iowa,b,1964,0,72.09
+IA,Iowa,b,1965,0,72.1
+IA,Iowa,b,1966,0,72.16
+IA,Iowa,b,1967,0,72.55
+IA,Iowa,b,1968,0,72.2
+IA,Iowa,b,1969,0,72.52
+IA,Iowa,b,1970,0,72.56
+IA,Iowa,b,1971,0,72.75
 IA,Iowa,b,1972,0,72.96
 IA,Iowa,b,1973,0,73.26
 IA,Iowa,b,1974,0,73.66
@@ -733,12 +919,25 @@ IA,Iowa,b,1975,0,74.14
 IA,Iowa,b,1976,0,74.42
 IA,Iowa,b,1977,0,75.23
 IA,Iowa,b,1978,0,75.09
-IA,Iowa,b,1966,0,72.16
-IA,Iowa,b,1967,0,72.55
-IA,Iowa,b,1968,0,72.2
-IA,Iowa,b,1969,0,72.52
-IA,Iowa,b,1970,0,72.56
-IA,Iowa,b,1971,0,72.75
+IA,Iowa,b,1979,0,75.68
+IA,Iowa,b,1980,0,75.75
+IA,Iowa,b,1981,0,76.07
+IA,Iowa,b,1982,0,76.29
+IA,Iowa,b,1983,0,76.26
+IA,Iowa,b,1984,0,76.66
+IA,Iowa,b,1985,0,76.38
+IA,Iowa,b,1986,0,76.88
+IA,Iowa,b,1987,0,76.79
+IA,Iowa,b,1988,0,76.79
+IA,Iowa,b,1989,0,77.07
+IA,Iowa,b,1990,0,77.53
+IA,Iowa,b,1991,0,77.35
+IA,Iowa,b,1992,0,77.87
+IA,Iowa,b,1993,0,77.58
+IA,Iowa,b,1994,0,77.56
+IA,Iowa,b,1995,0,77.61
+IA,Iowa,b,1996,0,77.84
+IA,Iowa,b,1997,0,78.17
 IA,Iowa,b,1998,0,78.1
 IA,Iowa,b,1999,0,78.21
 IA,Iowa,b,2000,0,78.33
@@ -760,205 +959,6 @@ IA,Iowa,b,2015,0,79.55
 IA,Iowa,b,2016,0,79.37
 IA,Iowa,b,2017,0,79.25
 IA,Iowa,b,2018,0,79.44
-IA,Iowa,b,1979,0,75.68
-IA,Iowa,b,1980,0,75.75
-IA,Iowa,b,1981,0,76.07
-IA,Iowa,b,1982,0,76.29
-IA,Iowa,b,1983,0,76.26
-IA,Iowa,b,1984,0,76.66
-IA,Iowa,b,1985,0,76.38
-IA,Iowa,b,1986,0,76.88
-IA,Iowa,b,1987,0,76.79
-IA,Iowa,b,1988,0,76.79
-IA,Iowa,b,1989,0,77.07
-IA,Iowa,b,1990,0,77.53
-IA,Iowa,b,1991,0,77.35
-IA,Iowa,b,1992,0,77.87
-IA,Iowa,b,1993,0,77.58
-IA,Iowa,b,1994,0,77.56
-IA,Iowa,b,1995,0,77.61
-IA,Iowa,b,1996,0,77.84
-IA,Iowa,b,1997,0,78.17
-ID,Idaho,b,1979,0,75.43
-ID,Idaho,b,1980,0,75.16
-ID,Idaho,b,1981,0,75.33
-ID,Idaho,b,1982,0,75.67
-ID,Idaho,b,1983,0,75.51
-ID,Idaho,b,1984,0,75.75
-ID,Idaho,b,1985,0,76.37
-ID,Idaho,b,1986,0,75.99
-ID,Idaho,b,1987,0,76.38
-ID,Idaho,b,1988,0,76.18
-ID,Idaho,b,1989,0,76.75
-ID,Idaho,b,1990,0,77.21
-ID,Idaho,b,1991,0,77.19
-ID,Idaho,b,1992,0,77.36
-ID,Idaho,b,1993,0,77.17
-ID,Idaho,b,1994,0,77.36
-ID,Idaho,b,1995,0,77.6
-ID,Idaho,b,1996,0,77.74
-ID,Idaho,b,1997,0,77.75
-ID,Idaho,b,1998,0,77.88
-ID,Idaho,b,1959,0,71.07
-ID,Idaho,b,1960,0,71.4
-ID,Idaho,b,1961,0,71.29
-ID,Idaho,b,1962,0,71.38
-ID,Idaho,b,1963,0,71.25
-ID,Idaho,b,1964,0,71.47
-ID,Idaho,b,1965,0,71.22
-ID,Idaho,b,1966,0,71.48
-ID,Idaho,b,1967,0,72.06
-ID,Idaho,b,1968,0,71.97
-ID,Idaho,b,1969,0,71.89
-ID,Idaho,b,1970,0,72.01
-ID,Idaho,b,1971,0,72.14
-ID,Idaho,b,1972,0,72.32
-ID,Idaho,b,1973,0,72.72
-ID,Idaho,b,1974,0,73.04
-ID,Idaho,b,1975,0,73.55
-ID,Idaho,b,1976,0,73.63
-ID,Idaho,b,1977,0,74.35
-ID,Idaho,b,1978,0,74.7
-ID,Idaho,b,2005,0,78.69
-ID,Idaho,b,2006,0,78.86
-ID,Idaho,b,2007,0,79.03
-ID,Idaho,b,2008,0,79.28
-ID,Idaho,b,2009,0,79.36
-ID,Idaho,b,2010,0,79.4
-ID,Idaho,b,2011,0,79.27
-ID,Idaho,b,1999,0,77.77
-ID,Idaho,b,2000,0,78.08
-ID,Idaho,b,2001,0,78.14
-ID,Idaho,b,2002,0,78.34
-ID,Idaho,b,2003,0,78.15
-ID,Idaho,b,2004,0,78.71
-ID,Idaho,b,2018,0,79.3
-ID,Idaho,b,2014,0,79.34
-ID,Idaho,b,2015,0,79.4
-ID,Idaho,b,2012,0,79.54
-ID,Idaho,b,2013,0,79.2
-ID,Idaho,b,2016,0,79.28
-ID,Idaho,b,2017,0,79.22
-IL,Illinois,b,1961,0,69.95
-IL,Illinois,b,1962,0,69.86
-IL,Illinois,b,1965,0,69.7
-IL,Illinois,b,1966,0,69.44
-IL,Illinois,b,1963,0,69.65
-IL,Illinois,b,1964,0,69.75
-IL,Illinois,b,1960,0,69.55
-IL,Illinois,b,1974,0,71.14
-IL,Illinois,b,1975,0,71.81
-IL,Illinois,b,1976,0,72.22
-IL,Illinois,b,1977,0,72.47
-IL,Illinois,b,1978,0,72.74
-IL,Illinois,b,1979,0,73.04
-IL,Illinois,b,1967,0,69.75
-IL,Illinois,b,1968,0,69.47
-IL,Illinois,b,1969,0,69.81
-IL,Illinois,b,1970,0,70.06
-IL,Illinois,b,1971,0,70.44
-IL,Illinois,b,1972,0,70.62
-IL,Illinois,b,1973,0,70.65
-IL,Illinois,b,2000,0,76.55
-IL,Illinois,b,2001,0,76.81
-IL,Illinois,b,2002,0,76.88
-IL,Illinois,b,2003,0,77.14
-IL,Illinois,b,2004,0,77.58
-IL,Illinois,b,2005,0,77.63
-IL,Illinois,b,2006,0,77.95
-IL,Illinois,b,2007,0,78.29
-IL,Illinois,b,2008,0,78.17
-IL,Illinois,b,2009,0,78.66
-IL,Illinois,b,2010,0,78.95
-IL,Illinois,b,2011,0,79
-IL,Illinois,b,2012,0,79.14
-IL,Illinois,b,2013,0,79.3
-IL,Illinois,b,2014,0,79.22
-IL,Illinois,b,2015,0,79.21
-IL,Illinois,b,2016,0,79.15
-IL,Illinois,b,2017,0,79.06
-IL,Illinois,b,2018,0,79.16
-IL,Illinois,b,1992,0,75.41
-IL,Illinois,b,1980,0,73.26
-IL,Illinois,b,1981,0,73.6
-IL,Illinois,b,1982,0,73.98
-IL,Illinois,b,1983,0,74.05
-IL,Illinois,b,1984,0,74.42
-IL,Illinois,b,1985,0,74.42
-IL,Illinois,b,1986,0,74.34
-IL,Illinois,b,1987,0,74.61
-IL,Illinois,b,1988,0,74.39
-IL,Illinois,b,1989,0,74.64
-IL,Illinois,b,1990,0,74.92
-IL,Illinois,b,1991,0,74.95
-IL,Illinois,b,1996,0,75.81
-IL,Illinois,b,1993,0,75.08
-IL,Illinois,b,1994,0,75.17
-IL,Illinois,b,1995,0,75.31
-IL,Illinois,b,1959,0,69.57
-IL,Illinois,b,1997,0,76.37
-IL,Illinois,b,1998,0,76.4
-IL,Illinois,b,1999,0,76.23
-IN,Indiana,b,1959,0,70.49
-IN,Indiana,b,1980,0,73.85
-IN,Indiana,b,1981,0,74.05
-IN,Indiana,b,1982,0,74.54
-IN,Indiana,b,1983,0,74.51
-IN,Indiana,b,1984,0,74.74
-IN,Indiana,b,1985,0,74.76
-IN,Indiana,b,1986,0,74.59
-IN,Indiana,b,1987,0,74.99
-IN,Indiana,b,1988,0,74.85
-IN,Indiana,b,1989,0,75.33
-IN,Indiana,b,1990,0,75.4
-IN,Indiana,b,1991,0,75.45
-IN,Indiana,b,1992,0,75.79
-IN,Indiana,b,1993,0,75.51
-IN,Indiana,b,1994,0,75.61
-IN,Indiana,b,1995,0,75.54
-IN,Indiana,b,1996,0,75.89
-IN,Indiana,b,1997,0,76.05
-IN,Indiana,b,1998,0,76.17
-IN,Indiana,b,1999,0,75.98
-IN,Indiana,b,1960,0,70.26
-IN,Indiana,b,1961,0,70.69
-IN,Indiana,b,1962,0,70.53
-IN,Indiana,b,1963,0,70.03
-IN,Indiana,b,1964,0,70.47
-IN,Indiana,b,1965,0,70.39
-IN,Indiana,b,1966,0,70.3
-IN,Indiana,b,1967,0,70.64
-IN,Indiana,b,1968,0,70.32
-IN,Indiana,b,1969,0,70.52
-IN,Indiana,b,1970,0,70.94
-IN,Indiana,b,1971,0,71.17
-IN,Indiana,b,1972,0,71.29
-IN,Indiana,b,1973,0,71.3
-IN,Indiana,b,1974,0,72.01
-IN,Indiana,b,1975,0,72.63
-IN,Indiana,b,1976,0,72.88
-IN,Indiana,b,1977,0,72.98
-IN,Indiana,b,1978,0,73.19
-IN,Indiana,b,1979,0,73.61
-IN,Indiana,b,2006,0,76.85
-IN,Indiana,b,2007,0,77.42
-IN,Indiana,b,2008,0,77.17
-IN,Indiana,b,2009,0,77.43
-IN,Indiana,b,2010,0,77.54
-IN,Indiana,b,2011,0,77.45
-IN,Indiana,b,2012,0,77.49
-IN,Indiana,b,2000,0,76.02
-IN,Indiana,b,2001,0,76.27
-IN,Indiana,b,2002,0,76.41
-IN,Indiana,b,2003,0,76.41
-IN,Indiana,b,2004,0,76.88
-IN,Indiana,b,2005,0,76.74
-IN,Indiana,b,2014,0,77.43
-IN,Indiana,b,2015,0,77.21
-IN,Indiana,b,2016,0,77.08
-IN,Indiana,b,2013,0,77.34
-IN,Indiana,b,2018,0,77.12
-IN,Indiana,b,2017,0,76.81
 KS,Kansas,b,1959,0,71.93
 KS,Kansas,b,1960,0,71.86
 KS,Kansas,b,1961,0,72.15
@@ -1139,126 +1139,7 @@ LA,Louisiana,b,2015,0,75.93
 LA,Louisiana,b,2016,0,75.93
 LA,Louisiana,b,2017,0,75.79
 LA,Louisiana,b,2018,0,75.99
-MA,Massachusetts,b,2018,0,80.5
-MA,Massachusetts,b,2007,0,79.75
-MA,Massachusetts,b,2008,0,79.98
-MA,Massachusetts,b,2009,0,80.23
-MA,Massachusetts,b,2010,0,80.52
-MA,Massachusetts,b,2011,0,80.55
-MA,Massachusetts,b,2012,0,80.86
-MA,Massachusetts,b,2013,0,80.75
-MA,Massachusetts,b,2014,0,80.65
-MA,Massachusetts,b,1959,0,70.79
-MA,Massachusetts,b,1960,0,70.53
-MA,Massachusetts,b,1961,0,70.77
-MA,Massachusetts,b,1962,0,70.96
-MA,Massachusetts,b,1963,0,71.4
-MA,Massachusetts,b,1964,0,72.56
-MA,Massachusetts,b,1965,0,70.78
-MA,Massachusetts,b,1966,0,71.17
-MA,Massachusetts,b,1967,0,71.29
-MA,Massachusetts,b,1968,0,71.15
-MA,Massachusetts,b,1969,0,71.56
-MA,Massachusetts,b,1970,0,71.88
-MA,Massachusetts,b,1971,0,72.13
-MA,Massachusetts,b,1972,0,72.34
-MA,Massachusetts,b,1973,0,72.48
-MA,Massachusetts,b,1974,0,72.98
-MA,Massachusetts,b,1975,0,73.55
-MA,Massachusetts,b,1976,0,74.02
-MA,Massachusetts,b,1977,0,74.63
-MA,Massachusetts,b,1978,0,74.63
-MA,Massachusetts,b,1979,0,75.05
-MA,Massachusetts,b,1980,0,74.75
-MA,Massachusetts,b,1981,0,75.26
-MA,Massachusetts,b,1982,0,75.51
-MA,Massachusetts,b,1983,0,75.48
-MA,Massachusetts,b,1984,0,75.47
-MA,Massachusetts,b,1985,0,75.56
-MA,Massachusetts,b,1986,0,75.72
-MA,Massachusetts,b,1987,0,75.91
-MA,Massachusetts,b,1988,0,75.78
-MA,Massachusetts,b,1989,0,76.38
-MA,Massachusetts,b,1990,0,76.81
-MA,Massachusetts,b,1991,0,77.04
-MA,Massachusetts,b,1992,0,76.95
-MA,Massachusetts,b,1993,0,76.88
-MA,Massachusetts,b,1994,0,77.13
-MA,Massachusetts,b,1995,0,77.35
-MA,Massachusetts,b,1996,0,77.69
-MA,Massachusetts,b,1997,0,78.07
-MA,Massachusetts,b,1998,0,78.16
-MA,Massachusetts,b,1999,0,78.25
-MA,Massachusetts,b,2000,0,78.22
-MA,Massachusetts,b,2001,0,78.27
-MA,Massachusetts,b,2002,0,78.37
-MA,Massachusetts,b,2003,0,78.53
-MA,Massachusetts,b,2004,0,79.02
-MA,Massachusetts,b,2005,0,79.29
-MA,Massachusetts,b,2006,0,79.56
-MA,Massachusetts,b,2015,0,80.32
-MA,Massachusetts,b,2016,0,80.5
-MA,Massachusetts,b,2017,0,80.37
-MD,Maryland,b,1986,0,74.08
-MD,Maryland,b,1987,0,74.1
-MD,Maryland,b,1988,0,74.2
-MD,Maryland,b,1990,0,74.87
-MD,Maryland,b,1991,0,75.14
-MD,Maryland,b,1992,0,75.25
-MD,Maryland,b,1989,0,74.54
-MD,Maryland,b,1998,0,76.13
-MD,Maryland,b,1959,0,68.77
-MD,Maryland,b,1960,0,68.64
-MD,Maryland,b,1961,0,69.22
-MD,Maryland,b,1962,0,69.21
-MD,Maryland,b,1963,0,68.82
-MD,Maryland,b,1964,0,69.48
-MD,Maryland,b,1965,0,69.18
-MD,Maryland,b,1993,0,75.04
-MD,Maryland,b,1967,0,69.76
-MD,Maryland,b,1968,0,69.45
-MD,Maryland,b,1969,0,70.01
-MD,Maryland,b,1970,0,70.19
-MD,Maryland,b,1971,0,70.77
-MD,Maryland,b,1972,0,70.88
-MD,Maryland,b,1973,0,71.46
-MD,Maryland,b,1974,0,71.61
-MD,Maryland,b,1975,0,72.22
-MD,Maryland,b,1976,0,72.34
-MD,Maryland,b,1977,0,72.99
-MD,Maryland,b,1978,0,72.96
-MD,Maryland,b,1966,0,69.19
-MD,Maryland,b,1980,0,73.26
-MD,Maryland,b,1981,0,73.63
-MD,Maryland,b,1982,0,73.95
-MD,Maryland,b,1983,0,74.01
-MD,Maryland,b,1984,0,74.18
-MD,Maryland,b,1985,0,74.02
-MD,Maryland,b,1999,0,76.12
-MD,Maryland,b,2000,0,76.23
-MD,Maryland,b,2001,0,76.4
-MD,Maryland,b,2002,0,76.67
-MD,Maryland,b,2003,0,76.69
-MD,Maryland,b,2004,0,77.25
-MD,Maryland,b,2005,0,77.44
-MD,Maryland,b,2006,0,77.63
-MD,Maryland,b,1994,0,75.14
-MD,Maryland,b,1995,0,75.12
-MD,Maryland,b,1996,0,75.52
-MD,Maryland,b,1997,0,75.93
-MD,Maryland,b,2011,0,79.16
-MD,Maryland,b,2012,0,79.31
-MD,Maryland,b,2013,0,79.26
-MD,Maryland,b,2014,0,79.42
-MD,Maryland,b,2015,0,79.25
-MD,Maryland,b,2016,0,78.88
-MD,Maryland,b,2017,0,78.86
-MD,Maryland,b,2018,0,79.01
-MD,Maryland,b,1979,0,73.33
-MD,Maryland,b,2007,0,77.82
-MD,Maryland,b,2008,0,78.14
-MD,Maryland,b,2009,0,78.45
-MD,Maryland,b,2010,0,78.95
+ME,Maine,b,1959,0,69.93
 ME,Maine,b,1960,0,70.15
 ME,Maine,b,1961,0,70.35
 ME,Maine,b,1962,0,70.27
@@ -1318,15 +1199,126 @@ ME,Maine,b,2015,0,78.56
 ME,Maine,b,2016,0,78.71
 ME,Maine,b,2017,0,78.49
 ME,Maine,b,2018,0,78.86
-ME,Maine,b,1959,0,69.93
-MI,Michigan,b,1991,0,75.18
-MI,Michigan,b,1988,0,74.59
-MI,Michigan,b,1989,0,74.84
-MI,Michigan,b,1990,0,75.14
-MI,Michigan,b,1995,0,75.71
-MI,Michigan,b,1992,0,75.59
-MI,Michigan,b,1993,0,75.35
-MI,Michigan,b,1994,0,75.53
+MD,Maryland,b,1959,0,68.77
+MD,Maryland,b,1960,0,68.64
+MD,Maryland,b,1961,0,69.22
+MD,Maryland,b,1962,0,69.21
+MD,Maryland,b,1963,0,68.82
+MD,Maryland,b,1964,0,69.48
+MD,Maryland,b,1965,0,69.18
+MD,Maryland,b,1966,0,69.19
+MD,Maryland,b,1967,0,69.76
+MD,Maryland,b,1968,0,69.45
+MD,Maryland,b,1969,0,70.01
+MD,Maryland,b,1970,0,70.19
+MD,Maryland,b,1971,0,70.77
+MD,Maryland,b,1972,0,70.88
+MD,Maryland,b,1973,0,71.46
+MD,Maryland,b,1974,0,71.61
+MD,Maryland,b,1975,0,72.22
+MD,Maryland,b,1976,0,72.34
+MD,Maryland,b,1977,0,72.99
+MD,Maryland,b,1978,0,72.96
+MD,Maryland,b,1979,0,73.33
+MD,Maryland,b,1980,0,73.26
+MD,Maryland,b,1981,0,73.63
+MD,Maryland,b,1982,0,73.95
+MD,Maryland,b,1983,0,74.01
+MD,Maryland,b,1984,0,74.18
+MD,Maryland,b,1985,0,74.02
+MD,Maryland,b,1986,0,74.08
+MD,Maryland,b,1987,0,74.1
+MD,Maryland,b,1988,0,74.2
+MD,Maryland,b,1989,0,74.54
+MD,Maryland,b,1990,0,74.87
+MD,Maryland,b,1991,0,75.14
+MD,Maryland,b,1992,0,75.25
+MD,Maryland,b,1993,0,75.04
+MD,Maryland,b,1994,0,75.14
+MD,Maryland,b,1995,0,75.12
+MD,Maryland,b,1996,0,75.52
+MD,Maryland,b,1997,0,75.93
+MD,Maryland,b,1998,0,76.13
+MD,Maryland,b,1999,0,76.12
+MD,Maryland,b,2000,0,76.23
+MD,Maryland,b,2001,0,76.4
+MD,Maryland,b,2002,0,76.67
+MD,Maryland,b,2003,0,76.69
+MD,Maryland,b,2004,0,77.25
+MD,Maryland,b,2005,0,77.44
+MD,Maryland,b,2006,0,77.63
+MD,Maryland,b,2007,0,77.82
+MD,Maryland,b,2008,0,78.14
+MD,Maryland,b,2009,0,78.45
+MD,Maryland,b,2010,0,78.95
+MD,Maryland,b,2011,0,79.16
+MD,Maryland,b,2012,0,79.31
+MD,Maryland,b,2013,0,79.26
+MD,Maryland,b,2014,0,79.42
+MD,Maryland,b,2015,0,79.25
+MD,Maryland,b,2016,0,78.88
+MD,Maryland,b,2017,0,78.86
+MD,Maryland,b,2018,0,79.01
+MA,Massachusetts,b,1959,0,70.79
+MA,Massachusetts,b,1960,0,70.53
+MA,Massachusetts,b,1961,0,70.77
+MA,Massachusetts,b,1962,0,70.96
+MA,Massachusetts,b,1963,0,71.4
+MA,Massachusetts,b,1964,0,72.56
+MA,Massachusetts,b,1965,0,70.78
+MA,Massachusetts,b,1966,0,71.17
+MA,Massachusetts,b,1967,0,71.29
+MA,Massachusetts,b,1968,0,71.15
+MA,Massachusetts,b,1969,0,71.56
+MA,Massachusetts,b,1970,0,71.88
+MA,Massachusetts,b,1971,0,72.13
+MA,Massachusetts,b,1972,0,72.34
+MA,Massachusetts,b,1973,0,72.48
+MA,Massachusetts,b,1974,0,72.98
+MA,Massachusetts,b,1975,0,73.55
+MA,Massachusetts,b,1976,0,74.02
+MA,Massachusetts,b,1977,0,74.63
+MA,Massachusetts,b,1978,0,74.63
+MA,Massachusetts,b,1979,0,75.05
+MA,Massachusetts,b,1980,0,74.75
+MA,Massachusetts,b,1981,0,75.26
+MA,Massachusetts,b,1982,0,75.51
+MA,Massachusetts,b,1983,0,75.48
+MA,Massachusetts,b,1984,0,75.47
+MA,Massachusetts,b,1985,0,75.56
+MA,Massachusetts,b,1986,0,75.72
+MA,Massachusetts,b,1987,0,75.91
+MA,Massachusetts,b,1988,0,75.78
+MA,Massachusetts,b,1989,0,76.38
+MA,Massachusetts,b,1990,0,76.81
+MA,Massachusetts,b,1991,0,77.04
+MA,Massachusetts,b,1992,0,76.95
+MA,Massachusetts,b,1993,0,76.88
+MA,Massachusetts,b,1994,0,77.13
+MA,Massachusetts,b,1995,0,77.35
+MA,Massachusetts,b,1996,0,77.69
+MA,Massachusetts,b,1997,0,78.07
+MA,Massachusetts,b,1998,0,78.16
+MA,Massachusetts,b,1999,0,78.25
+MA,Massachusetts,b,2000,0,78.22
+MA,Massachusetts,b,2001,0,78.27
+MA,Massachusetts,b,2002,0,78.37
+MA,Massachusetts,b,2003,0,78.53
+MA,Massachusetts,b,2004,0,79.02
+MA,Massachusetts,b,2005,0,79.29
+MA,Massachusetts,b,2006,0,79.56
+MA,Massachusetts,b,2007,0,79.75
+MA,Massachusetts,b,2008,0,79.98
+MA,Massachusetts,b,2009,0,80.23
+MA,Massachusetts,b,2010,0,80.52
+MA,Massachusetts,b,2011,0,80.55
+MA,Massachusetts,b,2012,0,80.86
+MA,Massachusetts,b,2013,0,80.75
+MA,Massachusetts,b,2014,0,80.65
+MA,Massachusetts,b,2015,0,80.32
+MA,Massachusetts,b,2016,0,80.5
+MA,Massachusetts,b,2017,0,80.37
+MA,Massachusetts,b,2018,0,80.5
 MI,Michigan,b,1959,0,70.13
 MI,Michigan,b,1960,0,70.18
 MI,Michigan,b,1961,0,70.53
@@ -1356,6 +1348,19 @@ MI,Michigan,b,1984,0,74.28
 MI,Michigan,b,1985,0,74.13
 MI,Michigan,b,1986,0,74.17
 MI,Michigan,b,1987,0,74.4
+MI,Michigan,b,1988,0,74.59
+MI,Michigan,b,1989,0,74.84
+MI,Michigan,b,1990,0,75.14
+MI,Michigan,b,1991,0,75.18
+MI,Michigan,b,1992,0,75.59
+MI,Michigan,b,1993,0,75.35
+MI,Michigan,b,1994,0,75.53
+MI,Michigan,b,1995,0,75.71
+MI,Michigan,b,1996,0,76.02
+MI,Michigan,b,1997,0,76.24
+MI,Michigan,b,1998,0,76.24
+MI,Michigan,b,1999,0,76.14
+MI,Michigan,b,2000,0,76.35
 MI,Michigan,b,2001,0,76.63
 MI,Michigan,b,2002,0,76.62
 MI,Michigan,b,2003,0,76.93
@@ -1364,29 +1369,16 @@ MI,Michigan,b,2005,0,77.24
 MI,Michigan,b,2006,0,77.54
 MI,Michigan,b,2007,0,77.63
 MI,Michigan,b,2008,0,77.68
-MI,Michigan,b,1996,0,76.02
-MI,Michigan,b,1997,0,76.24
-MI,Michigan,b,1998,0,76.24
-MI,Michigan,b,1999,0,76.14
-MI,Michigan,b,2000,0,76.35
+MI,Michigan,b,2009,0,78
+MI,Michigan,b,2010,0,78.04
+MI,Michigan,b,2011,0,78.09
+MI,Michigan,b,2012,0,78.22
+MI,Michigan,b,2013,0,78.13
 MI,Michigan,b,2014,0,78.12
 MI,Michigan,b,2015,0,78.06
 MI,Michigan,b,2016,0,77.96
 MI,Michigan,b,2017,0,77.99
 MI,Michigan,b,2018,0,78
-MI,Michigan,b,2010,0,78.04
-MI,Michigan,b,2011,0,78.09
-MI,Michigan,b,2012,0,78.22
-MI,Michigan,b,2009,0,78
-MI,Michigan,b,2013,0,78.13
-MN,Minnesota,b,2014,0,81.02
-MN,Minnesota,b,2015,0,80.85
-MN,Minnesota,b,2016,0,80.89
-MN,Minnesota,b,2009,0,80.84
-MN,Minnesota,b,2010,0,80.83
-MN,Minnesota,b,2011,0,80.85
-MN,Minnesota,b,2012,0,81
-MN,Minnesota,b,2013,0,80.92
 MN,Minnesota,b,1959,0,71.81
 MN,Minnesota,b,1960,0,71.82
 MN,Minnesota,b,1961,0,72.24
@@ -1437,16 +1429,83 @@ MN,Minnesota,b,2005,0,80.1
 MN,Minnesota,b,2006,0,80.33
 MN,Minnesota,b,2007,0,80.59
 MN,Minnesota,b,2008,0,80.42
+MN,Minnesota,b,2009,0,80.84
+MN,Minnesota,b,2010,0,80.83
+MN,Minnesota,b,2011,0,80.85
+MN,Minnesota,b,2012,0,81
+MN,Minnesota,b,2013,0,80.92
+MN,Minnesota,b,2014,0,81.02
+MN,Minnesota,b,2015,0,80.85
+MN,Minnesota,b,2016,0,80.89
 MN,Minnesota,b,2017,0,80.79
 MN,Minnesota,b,2018,0,80.88
-MO,Missouri,b,1965,0,70.37
+MS,Mississippi,b,1959,0,67.83
+MS,Mississippi,b,1960,0,67.63
+MS,Mississippi,b,1961,0,68.29
+MS,Mississippi,b,1962,0,67.54
+MS,Mississippi,b,1963,0,67.22
+MS,Mississippi,b,1964,0,67.76
+MS,Mississippi,b,1965,0,67.88
+MS,Mississippi,b,1966,0,67.55
+MS,Mississippi,b,1967,0,68.04
+MS,Mississippi,b,1968,0,67.66
+MS,Mississippi,b,1969,0,67.65
+MS,Mississippi,b,1970,0,68.36
+MS,Mississippi,b,1971,0,68.64
+MS,Mississippi,b,1972,0,68.92
+MS,Mississippi,b,1973,0,69.07
+MS,Mississippi,b,1974,0,70.09
+MS,Mississippi,b,1975,0,70.59
+MS,Mississippi,b,1976,0,70.81
+MS,Mississippi,b,1977,0,71.23
+MS,Mississippi,b,1978,0,71.37
+MS,Mississippi,b,1979,0,71.86
+MS,Mississippi,b,1980,0,71.8
+MS,Mississippi,b,1981,0,72.28
+MS,Mississippi,b,1982,0,72.63
+MS,Mississippi,b,1983,0,72.65
+MS,Mississippi,b,1984,0,72.81
+MS,Mississippi,b,1985,0,72.67
+MS,Mississippi,b,1986,0,72.91
+MS,Mississippi,b,1987,0,72.87
+MS,Mississippi,b,1988,0,73.14
+MS,Mississippi,b,1989,0,72.85
+MS,Mississippi,b,1990,0,73.07
+MS,Mississippi,b,1991,0,73.07
+MS,Mississippi,b,1992,0,73.22
+MS,Mississippi,b,1993,0,72.95
+MS,Mississippi,b,1994,0,72.95
+MS,Mississippi,b,1995,0,73.07
+MS,Mississippi,b,1996,0,73.43
+MS,Mississippi,b,1997,0,73.38
+MS,Mississippi,b,1998,0,73.43
+MS,Mississippi,b,1999,0,73.44
+MS,Mississippi,b,2000,0,73.39
+MS,Mississippi,b,2001,0,73.7
+MS,Mississippi,b,2002,0,73.59
+MS,Mississippi,b,2003,0,73.8
+MS,Mississippi,b,2004,0,74.13
+MS,Mississippi,b,2005,0,73.71
+MS,Mississippi,b,2006,0,73.97
+MS,Mississippi,b,2007,0,74.38
+MS,Mississippi,b,2008,0,74.4
+MS,Mississippi,b,2009,0,74.85
+MS,Mississippi,b,2010,0,74.82
+MS,Mississippi,b,2011,0,74.81
+MS,Mississippi,b,2012,0,75.06
+MS,Mississippi,b,2013,0,74.72
+MS,Mississippi,b,2014,0,74.91
+MS,Mississippi,b,2015,0,74.64
+MS,Mississippi,b,2016,0,74.74
+MS,Mississippi,b,2017,0,74.74
+MS,Mississippi,b,2018,0,74.89
 MO,Missouri,b,1959,0,70.46
 MO,Missouri,b,1960,0,70.24
 MO,Missouri,b,1961,0,70.73
 MO,Missouri,b,1962,0,70.48
 MO,Missouri,b,1963,0,70.21
 MO,Missouri,b,1964,0,70.45
-MO,Missouri,b,1978,0,73.05
+MO,Missouri,b,1965,0,70.37
 MO,Missouri,b,1966,0,70.23
 MO,Missouri,b,1967,0,70.56
 MO,Missouri,b,1968,0,70.28
@@ -1459,6 +1518,19 @@ MO,Missouri,b,1974,0,71.91
 MO,Missouri,b,1975,0,72.43
 MO,Missouri,b,1976,0,72.68
 MO,Missouri,b,1977,0,73
+MO,Missouri,b,1978,0,73.05
+MO,Missouri,b,1979,0,73.72
+MO,Missouri,b,1980,0,73.62
+MO,Missouri,b,1981,0,74.06
+MO,Missouri,b,1982,0,74.46
+MO,Missouri,b,1983,0,74.49
+MO,Missouri,b,1984,0,74.73
+MO,Missouri,b,1985,0,74.69
+MO,Missouri,b,1986,0,74.76
+MO,Missouri,b,1987,0,74.84
+MO,Missouri,b,1988,0,74.98
+MO,Missouri,b,1989,0,75.17
+MO,Missouri,b,1990,0,75.29
 MO,Missouri,b,1991,0,75.25
 MO,Missouri,b,1992,0,75.51
 MO,Missouri,b,1993,0,75.18
@@ -1487,86 +1559,18 @@ MO,Missouri,b,2015,0,77.34
 MO,Missouri,b,2016,0,77.36
 MO,Missouri,b,2017,0,77.17
 MO,Missouri,b,2018,0,76.99
-MO,Missouri,b,1979,0,73.72
-MO,Missouri,b,1980,0,73.62
-MO,Missouri,b,1981,0,74.06
-MO,Missouri,b,1982,0,74.46
-MO,Missouri,b,1983,0,74.49
-MO,Missouri,b,1984,0,74.73
-MO,Missouri,b,1985,0,74.69
-MO,Missouri,b,1986,0,74.76
-MO,Missouri,b,1987,0,74.84
-MO,Missouri,b,1988,0,74.98
-MO,Missouri,b,1989,0,75.17
-MO,Missouri,b,1990,0,75.29
-MS,Mississippi,b,2013,0,74.72
-MS,Mississippi,b,2014,0,74.91
-MS,Mississippi,b,2011,0,74.81
-MS,Mississippi,b,2012,0,75.06
-MS,Mississippi,b,2017,0,74.74
-MS,Mississippi,b,2018,0,74.89
-MS,Mississippi,b,2015,0,74.64
-MS,Mississippi,b,2016,0,74.74
-MS,Mississippi,b,1979,0,71.86
-MS,Mississippi,b,1980,0,71.8
-MS,Mississippi,b,1981,0,72.28
-MS,Mississippi,b,1982,0,72.63
-MS,Mississippi,b,1983,0,72.65
-MS,Mississippi,b,1984,0,72.81
-MS,Mississippi,b,1985,0,72.67
-MS,Mississippi,b,1986,0,72.91
-MS,Mississippi,b,1987,0,72.87
-MS,Mississippi,b,1988,0,73.14
-MS,Mississippi,b,1989,0,72.85
-MS,Mississippi,b,1990,0,73.07
-MS,Mississippi,b,1991,0,73.07
-MS,Mississippi,b,1992,0,73.22
-MS,Mississippi,b,1993,0,72.95
-MS,Mississippi,b,1994,0,72.95
-MS,Mississippi,b,1995,0,73.07
-MS,Mississippi,b,1996,0,73.43
-MS,Mississippi,b,1997,0,73.38
-MS,Mississippi,b,1998,0,73.43
-MS,Mississippi,b,1959,0,67.83
-MS,Mississippi,b,1960,0,67.63
-MS,Mississippi,b,1961,0,68.29
-MS,Mississippi,b,1962,0,67.54
-MS,Mississippi,b,1963,0,67.22
-MS,Mississippi,b,1964,0,67.76
-MS,Mississippi,b,1965,0,67.88
-MS,Mississippi,b,1966,0,67.55
-MS,Mississippi,b,1967,0,68.04
-MS,Mississippi,b,1968,0,67.66
-MS,Mississippi,b,1969,0,67.65
-MS,Mississippi,b,1970,0,68.36
-MS,Mississippi,b,1971,0,68.64
-MS,Mississippi,b,1972,0,68.92
-MS,Mississippi,b,1973,0,69.07
-MS,Mississippi,b,1974,0,70.09
-MS,Mississippi,b,1975,0,70.59
-MS,Mississippi,b,1976,0,70.81
-MS,Mississippi,b,1977,0,71.23
-MS,Mississippi,b,1978,0,71.37
-MS,Mississippi,b,2005,0,73.71
-MS,Mississippi,b,2006,0,73.97
-MS,Mississippi,b,2007,0,74.38
-MS,Mississippi,b,2008,0,74.4
-MS,Mississippi,b,2009,0,74.85
-MS,Mississippi,b,2010,0,74.82
-MS,Mississippi,b,2002,0,73.59
-MS,Mississippi,b,1999,0,73.44
-MS,Mississippi,b,2000,0,73.39
-MS,Mississippi,b,2001,0,73.7
-MS,Mississippi,b,2003,0,73.8
-MS,Mississippi,b,2004,0,74.13
+MT,Montana,b,1959,0,69.25
+MT,Montana,b,1960,0,69.56
+MT,Montana,b,1961,0,69.95
+MT,Montana,b,1962,0,70.31
 MT,Montana,b,1963,0,70.19
 MT,Montana,b,1964,0,69.57
 MT,Montana,b,1965,0,70.16
-MT,Montana,b,1962,0,70.31
+MT,Montana,b,1966,0,69.99
 MT,Montana,b,1967,0,70.37
 MT,Montana,b,1968,0,70.89
 MT,Montana,b,1969,0,70.48
-MT,Montana,b,1966,0,69.99
+MT,Montana,b,1970,0,70.79
 MT,Montana,b,1971,0,70.65
 MT,Montana,b,1972,0,70.79
 MT,Montana,b,1973,0,71.15
@@ -1579,7 +1583,7 @@ MT,Montana,b,1979,0,74.15
 MT,Montana,b,1980,0,73.81
 MT,Montana,b,1981,0,74.07
 MT,Montana,b,1982,0,74.65
-MT,Montana,b,1970,0,70.79
+MT,Montana,b,1983,0,74.98
 MT,Montana,b,1984,0,75.28
 MT,Montana,b,1985,0,75.56
 MT,Montana,b,1986,0,75.58
@@ -1615,21 +1619,376 @@ MT,Montana,b,2015,0,78.12
 MT,Montana,b,2016,0,78.5
 MT,Montana,b,2017,0,78.61
 MT,Montana,b,2018,0,79.05
-MT,Montana,b,1983,0,74.98
-MT,Montana,b,1960,0,69.56
-MT,Montana,b,1961,0,69.95
-MT,Montana,b,1959,0,69.25
-NC,North Carolina,b,1992,0,75
+NE,Nebraska,b,1959,0,71.9
+NE,Nebraska,b,1960,0,71.97
+NE,Nebraska,b,1961,0,72.19
+NE,Nebraska,b,1962,0,72.21
+NE,Nebraska,b,1963,0,72.09
+NE,Nebraska,b,1964,0,71.91
+NE,Nebraska,b,1965,0,71.98
+NE,Nebraska,b,1966,0,72.21
+NE,Nebraska,b,1967,0,72.58
+NE,Nebraska,b,1968,0,72.34
+NE,Nebraska,b,1969,0,72.61
+NE,Nebraska,b,1970,0,72.51
+NE,Nebraska,b,1971,0,72.74
+NE,Nebraska,b,1972,0,72.92
+NE,Nebraska,b,1973,0,73.39
+NE,Nebraska,b,1974,0,73.59
+NE,Nebraska,b,1975,0,74.08
+NE,Nebraska,b,1976,0,74.39
+NE,Nebraska,b,1977,0,74.83
+NE,Nebraska,b,1978,0,75.03
+NE,Nebraska,b,1979,0,75.53
+NE,Nebraska,b,1980,0,75.37
+NE,Nebraska,b,1981,0,75.65
+NE,Nebraska,b,1982,0,75.98
+NE,Nebraska,b,1983,0,76.16
+NE,Nebraska,b,1984,0,76.33
+NE,Nebraska,b,1985,0,76.38
+NE,Nebraska,b,1986,0,76.38
+NE,Nebraska,b,1987,0,76.5
+NE,Nebraska,b,1988,0,76.57
+NE,Nebraska,b,1989,0,76.83
+NE,Nebraska,b,1990,0,76.91
+NE,Nebraska,b,1991,0,77.17
+NE,Nebraska,b,1992,0,77.48
+NE,Nebraska,b,1993,0,77.14
+NE,Nebraska,b,1994,0,77.33
+NE,Nebraska,b,1995,0,77.55
+NE,Nebraska,b,1996,0,77.4
+NE,Nebraska,b,1997,0,77.7
+NE,Nebraska,b,1998,0,77.89
+NE,Nebraska,b,1999,0,77.72
+NE,Nebraska,b,2000,0,78.28
+NE,Nebraska,b,2001,0,78.3
+NE,Nebraska,b,2002,0,77.91
+NE,Nebraska,b,2003,0,78.44
+NE,Nebraska,b,2004,0,78.99
+NE,Nebraska,b,2005,0,78.94
+NE,Nebraska,b,2006,0,79.13
+NE,Nebraska,b,2007,0,79
+NE,Nebraska,b,2008,0,79.08
+NE,Nebraska,b,2009,0,79.62
+NE,Nebraska,b,2010,0,79.65
+NE,Nebraska,b,2011,0,79.58
+NE,Nebraska,b,2012,0,79.61
+NE,Nebraska,b,2013,0,79.74
+NE,Nebraska,b,2014,0,79.53
+NE,Nebraska,b,2015,0,79.25
+NE,Nebraska,b,2016,0,79.67
+NE,Nebraska,b,2017,0,79.4
+NE,Nebraska,b,2018,0,79.45
+NV,Nevada,b,1959,0,67.88
+NV,Nevada,b,1960,0,67.61
+NV,Nevada,b,1961,0,68.05
+NV,Nevada,b,1962,0,68.25
+NV,Nevada,b,1963,0,67.74
+NV,Nevada,b,1964,0,67.69
+NV,Nevada,b,1965,0,68.19
+NV,Nevada,b,1966,0,68.7
+NV,Nevada,b,1967,0,69.42
+NV,Nevada,b,1968,0,68.87
+NV,Nevada,b,1969,0,69.28
+NV,Nevada,b,1970,0,69.31
+NV,Nevada,b,1971,0,69.76
+NV,Nevada,b,1972,0,70.47
+NV,Nevada,b,1973,0,70.72
+NV,Nevada,b,1974,0,71.06
+NV,Nevada,b,1975,0,71.7
+NV,Nevada,b,1976,0,72.36
+NV,Nevada,b,1977,0,72.38
+NV,Nevada,b,1978,0,72.82
+NV,Nevada,b,1979,0,72.9
+NV,Nevada,b,1980,0,72.6
+NV,Nevada,b,1981,0,73.47
+NV,Nevada,b,1982,0,73.32
+NV,Nevada,b,1983,0,74.1
+NV,Nevada,b,1984,0,74.05
+NV,Nevada,b,1985,0,74
+NV,Nevada,b,1986,0,74.24
+NV,Nevada,b,1987,0,74.27
+NV,Nevada,b,1988,0,74.12
+NV,Nevada,b,1989,0,74.62
+NV,Nevada,b,1990,0,74.52
+NV,Nevada,b,1991,0,74.53
+NV,Nevada,b,1992,0,75.13
+NV,Nevada,b,1993,0,74.9
+NV,Nevada,b,1994,0,74.83
+NV,Nevada,b,1995,0,75.11
+NV,Nevada,b,1996,0,75.19
+NV,Nevada,b,1997,0,75.76
+NV,Nevada,b,1998,0,75.54
+NV,Nevada,b,1999,0,75.65
+NV,Nevada,b,2000,0,75.94
+NV,Nevada,b,2001,0,75.96
+NV,Nevada,b,2002,0,76.09
+NV,Nevada,b,2003,0,75.95
+NV,Nevada,b,2004,0,76.39
+NV,Nevada,b,2005,0,76.08
+NV,Nevada,b,2006,0,76.58
+NV,Nevada,b,2007,0,77.04
+NV,Nevada,b,2008,0,77.26
+NV,Nevada,b,2009,0,77.67
+NV,Nevada,b,2010,0,77.81
+NV,Nevada,b,2011,0,77.75
+NV,Nevada,b,2012,0,78.1
+NV,Nevada,b,2013,0,78.04
+NV,Nevada,b,2014,0,78.22
+NV,Nevada,b,2015,0,78.09
+NV,Nevada,b,2016,0,77.95
+NV,Nevada,b,2017,0,78.04
+NV,Nevada,b,2018,0,78.41
+NH,New Hampshire,b,1959,0,70.46
+NH,New Hampshire,b,1960,0,70.72
+NH,New Hampshire,b,1961,0,70.81
+NH,New Hampshire,b,1962,0,71.03
+NH,New Hampshire,b,1963,0,70.45
+NH,New Hampshire,b,1964,0,70.65
+NH,New Hampshire,b,1965,0,70.72
+NH,New Hampshire,b,1966,0,70.97
+NH,New Hampshire,b,1967,0,71.06
+NH,New Hampshire,b,1968,0,70.97
+NH,New Hampshire,b,1969,0,70.97
+NH,New Hampshire,b,1970,0,71.55
+NH,New Hampshire,b,1971,0,71.66
+NH,New Hampshire,b,1972,0,72.15
+NH,New Hampshire,b,1973,0,72.33
+NH,New Hampshire,b,1974,0,72.55
+NH,New Hampshire,b,1975,0,73.79
+NH,New Hampshire,b,1976,0,73.85
+NH,New Hampshire,b,1977,0,74.58
+NH,New Hampshire,b,1978,0,74.67
+NH,New Hampshire,b,1979,0,74.87
+NH,New Hampshire,b,1980,0,75.09
+NH,New Hampshire,b,1981,0,75.23
+NH,New Hampshire,b,1982,0,75.58
+NH,New Hampshire,b,1983,0,75.62
+NH,New Hampshire,b,1984,0,75.72
+NH,New Hampshire,b,1985,0,75.43
+NH,New Hampshire,b,1986,0,75.76
+NH,New Hampshire,b,1987,0,76.19
+NH,New Hampshire,b,1988,0,76.06
+NH,New Hampshire,b,1989,0,76.52
+NH,New Hampshire,b,1990,0,76.95
+NH,New Hampshire,b,1991,0,77.24
+NH,New Hampshire,b,1992,0,77.59
+NH,New Hampshire,b,1993,0,77.53
+NH,New Hampshire,b,1994,0,77.65
+NH,New Hampshire,b,1995,0,77.57
+NH,New Hampshire,b,1996,0,77.78
+NH,New Hampshire,b,1997,0,78
+NH,New Hampshire,b,1998,0,78.1
+NH,New Hampshire,b,1999,0,78.31
+NH,New Hampshire,b,2000,0,78.51
+NH,New Hampshire,b,2001,0,78.56
+NH,New Hampshire,b,2002,0,78.74
+NH,New Hampshire,b,2003,0,79.21
+NH,New Hampshire,b,2004,0,79.04
+NH,New Hampshire,b,2005,0,79.12
+NH,New Hampshire,b,2006,0,79.52
+NH,New Hampshire,b,2007,0,79.51
+NH,New Hampshire,b,2008,0,79.92
+NH,New Hampshire,b,2009,0,80.21
+NH,New Hampshire,b,2010,0,80.29
+NH,New Hampshire,b,2011,0,80.07
+NH,New Hampshire,b,2012,0,80.38
+NH,New Hampshire,b,2013,0,80.37
+NH,New Hampshire,b,2014,0,79.94
+NH,New Hampshire,b,2015,0,79.58
+NH,New Hampshire,b,2016,0,79.35
+NH,New Hampshire,b,2017,0,79.49
+NH,New Hampshire,b,2018,0,79.49
+NJ,New Jersey,b,1959,0,69.94
+NJ,New Jersey,b,1960,0,69.94
+NJ,New Jersey,b,1961,0,70.01
+NJ,New Jersey,b,1962,0,70.09
+NJ,New Jersey,b,1963,0,69.93
+NJ,New Jersey,b,1964,0,70.09
+NJ,New Jersey,b,1965,0,70.25
+NJ,New Jersey,b,1966,0,70.28
+NJ,New Jersey,b,1967,0,70.61
+NJ,New Jersey,b,1968,0,70.3
+NJ,New Jersey,b,1969,0,70.7
+NJ,New Jersey,b,1970,0,70.96
+NJ,New Jersey,b,1971,0,71.2
+NJ,New Jersey,b,1972,0,71.47
+NJ,New Jersey,b,1973,0,71.78
+NJ,New Jersey,b,1974,0,72.29
+NJ,New Jersey,b,1975,0,72.88
+NJ,New Jersey,b,1976,0,73.21
+NJ,New Jersey,b,1977,0,73.37
+NJ,New Jersey,b,1978,0,73.71
+NJ,New Jersey,b,1979,0,73.94
+NJ,New Jersey,b,1980,0,73.75
+NJ,New Jersey,b,1981,0,74.29
+NJ,New Jersey,b,1982,0,74.42
+NJ,New Jersey,b,1983,0,74.49
+NJ,New Jersey,b,1984,0,74.67
+NJ,New Jersey,b,1985,0,74.53
+NJ,New Jersey,b,1986,0,74.66
+NJ,New Jersey,b,1987,0,74.65
+NJ,New Jersey,b,1988,0,74.56
+NJ,New Jersey,b,1989,0,75.02
+NJ,New Jersey,b,1990,0,75.43
+NJ,New Jersey,b,1991,0,75.64
+NJ,New Jersey,b,1992,0,75.79
+NJ,New Jersey,b,1993,0,75.71
+NJ,New Jersey,b,1994,0,75.94
+NJ,New Jersey,b,1995,0,75.99
+NJ,New Jersey,b,1996,0,76.46
+NJ,New Jersey,b,1997,0,76.97
+NJ,New Jersey,b,1998,0,77.38
+NJ,New Jersey,b,1999,0,77.24
+NJ,New Jersey,b,2000,0,77.32
+NJ,New Jersey,b,2001,0,77.37
+NJ,New Jersey,b,2002,0,77.8
+NJ,New Jersey,b,2003,0,78.02
+NJ,New Jersey,b,2004,0,78.47
+NJ,New Jersey,b,2005,0,78.6
+NJ,New Jersey,b,2006,0,78.81
+NJ,New Jersey,b,2007,0,79.27
+NJ,New Jersey,b,2008,0,79.43
+NJ,New Jersey,b,2009,0,79.89
+NJ,New Jersey,b,2010,0,79.97
+NJ,New Jersey,b,2011,0,79.91
+NJ,New Jersey,b,2012,0,80.22
+NJ,New Jersey,b,2013,0,80.26
+NJ,New Jersey,b,2014,0,80.41
+NJ,New Jersey,b,2015,0,80.43
+NJ,New Jersey,b,2016,0,80.29
+NJ,New Jersey,b,2017,0,80.19
+NJ,New Jersey,b,2018,0,80.24
+NM,New Mexico,b,1959,0,69.61
+NM,New Mexico,b,1960,0,69.29
+NM,New Mexico,b,1961,0,70.11
+NM,New Mexico,b,1962,0,70.17
+NM,New Mexico,b,1963,0,69.79
+NM,New Mexico,b,1964,0,69.91
+NM,New Mexico,b,1965,0,70.27
+NM,New Mexico,b,1966,0,70.21
+NM,New Mexico,b,1967,0,70.48
+NM,New Mexico,b,1968,0,70.32
+NM,New Mexico,b,1969,0,70.45
+NM,New Mexico,b,1970,0,70.51
+NM,New Mexico,b,1971,0,70.75
+NM,New Mexico,b,1972,0,70.86
+NM,New Mexico,b,1973,0,70.82
+NM,New Mexico,b,1974,0,71.63
+NM,New Mexico,b,1975,0,72.43
+NM,New Mexico,b,1976,0,72.67
+NM,New Mexico,b,1977,0,73.51
+NM,New Mexico,b,1978,0,73.45
+NM,New Mexico,b,1979,0,73.63
+NM,New Mexico,b,1980,0,73.81
+NM,New Mexico,b,1981,0,74.99
+NM,New Mexico,b,1982,0,74.68
+NM,New Mexico,b,1983,0,75.27
+NM,New Mexico,b,1984,0,75.26
+NM,New Mexico,b,1985,0,75.23
+NM,New Mexico,b,1986,0,75.2
+NM,New Mexico,b,1987,0,75.34
+NM,New Mexico,b,1988,0,75.5
+NM,New Mexico,b,1989,0,75.77
+NM,New Mexico,b,1990,0,76.02
+NM,New Mexico,b,1991,0,75.83
+NM,New Mexico,b,1992,0,76.38
+NM,New Mexico,b,1993,0,76.14
+NM,New Mexico,b,1994,0,76.27
+NM,New Mexico,b,1995,0,76.28
+NM,New Mexico,b,1996,0,76.68
+NM,New Mexico,b,1997,0,76.92
+NM,New Mexico,b,1998,0,77.07
+NM,New Mexico,b,1999,0,76.71
+NM,New Mexico,b,2000,0,77.13
+NM,New Mexico,b,2001,0,76.94
+NM,New Mexico,b,2002,0,76.93
+NM,New Mexico,b,2003,0,76.83
+NM,New Mexico,b,2004,0,77.46
+NM,New Mexico,b,2005,0,77.3
+NM,New Mexico,b,2006,0,77.37
+NM,New Mexico,b,2007,0,77.45
+NM,New Mexico,b,2008,0,77.35
+NM,New Mexico,b,2009,0,77.92
+NM,New Mexico,b,2010,0,78.13
+NM,New Mexico,b,2011,0,77.99
+NM,New Mexico,b,2012,0,77.96
+NM,New Mexico,b,2013,0,78.31
+NM,New Mexico,b,2014,0,77.81
+NM,New Mexico,b,2015,0,77.89
+NM,New Mexico,b,2016,0,77.6
+NM,New Mexico,b,2017,0,77.75
+NM,New Mexico,b,2018,0,77.75
+NY,New York,b,1959,0,69.55
+NY,New York,b,1960,0,69.67
+NY,New York,b,1961,0,69.84
+NY,New York,b,1962,0,69.8
+NY,New York,b,1963,0,69.76
+NY,New York,b,1964,0,69.9
+NY,New York,b,1965,0,70.14
+NY,New York,b,1966,0,70.02
+NY,New York,b,1967,0,70.2
+NY,New York,b,1968,0,69.94
+NY,New York,b,1969,0,70.26
+NY,New York,b,1970,0,70.47
+NY,New York,b,1971,0,70.83
+NY,New York,b,1972,0,71.09
+NY,New York,b,1973,0,71.47
+NY,New York,b,1974,0,71.95
+NY,New York,b,1975,0,72.59
+NY,New York,b,1976,0,72.64
+NY,New York,b,1977,0,73.05
+NY,New York,b,1978,0,73.36
+NY,New York,b,1979,0,73.73
+NY,New York,b,1980,0,73.4
+NY,New York,b,1981,0,73.81
+NY,New York,b,1982,0,74.04
+NY,New York,b,1983,0,74.07
+NY,New York,b,1984,0,74.13
+NY,New York,b,1985,0,74.08
+NY,New York,b,1986,0,73.97
+NY,New York,b,1987,0,73.99
+NY,New York,b,1988,0,73.88
+NY,New York,b,1989,0,74.22
+NY,New York,b,1990,0,74.59
+NY,New York,b,1991,0,74.82
+NY,New York,b,1992,0,75.1
+NY,New York,b,1993,0,74.97
+NY,New York,b,1994,0,75.27
+NY,New York,b,1995,0,75.52
+NY,New York,b,1996,0,76.19
+NY,New York,b,1997,0,76.95
+NY,New York,b,1998,0,77.4
+NY,New York,b,1999,0,77.34
+NY,New York,b,2000,0,77.64
+NY,New York,b,2001,0,77.64
+NY,New York,b,2002,0,78.02
+NY,New York,b,2003,0,78.32
+NY,New York,b,2004,0,78.68
+NY,New York,b,2005,0,78.86
+NY,New York,b,2006,0,79.23
+NY,New York,b,2007,0,79.49
+NY,New York,b,2008,0,79.63
+NY,New York,b,2009,0,79.94
+NY,New York,b,2010,0,80.22
+NY,New York,b,2011,0,80.28
+NY,New York,b,2012,0,80.52
+NY,New York,b,2013,0,80.59
+NY,New York,b,2014,0,80.87
+NY,New York,b,2015,0,80.82
+NY,New York,b,2016,0,80.8
+NY,New York,b,2017,0,80.98
+NY,New York,b,2018,0,81.09
+NC,North Carolina,b,1959,0,68.61
 NC,North Carolina,b,1960,0,68.17
 NC,North Carolina,b,1961,0,68.8
 NC,North Carolina,b,1962,0,68.63
-NC,North Carolina,b,1959,0,68.61
 NC,North Carolina,b,1963,0,68.41
 NC,North Carolina,b,1964,0,68.72
 NC,North Carolina,b,1965,0,68.61
-NC,North Carolina,b,1993,0,74.79
-NC,North Carolina,b,1994,0,74.96
-NC,North Carolina,b,1995,0,75.1
+NC,North Carolina,b,1966,0,68.63
+NC,North Carolina,b,1967,0,68.98
+NC,North Carolina,b,1968,0,68.68
 NC,North Carolina,b,1969,0,68.78
 NC,North Carolina,b,1970,0,69.26
 NC,North Carolina,b,1971,0,69.75
@@ -1640,9 +1999,9 @@ NC,North Carolina,b,1975,0,71.26
 NC,North Carolina,b,1976,0,71.72
 NC,North Carolina,b,1977,0,72
 NC,North Carolina,b,1978,0,72.27
-NC,North Carolina,b,1966,0,68.63
-NC,North Carolina,b,1967,0,68.98
-NC,North Carolina,b,1968,0,68.68
+NC,North Carolina,b,1979,0,72.92
+NC,North Carolina,b,1980,0,72.95
+NC,North Carolina,b,1981,0,73.22
 NC,North Carolina,b,1982,0,73.79
 NC,North Carolina,b,1983,0,73.94
 NC,North Carolina,b,1984,0,74.06
@@ -1653,10 +2012,10 @@ NC,North Carolina,b,1988,0,73.93
 NC,North Carolina,b,1989,0,74.26
 NC,North Carolina,b,1990,0,74.7
 NC,North Carolina,b,1991,0,74.76
-NC,North Carolina,b,2005,0,76.62
-NC,North Carolina,b,2006,0,76.88
-NC,North Carolina,b,2007,0,77.05
-NC,North Carolina,b,2008,0,77.3
+NC,North Carolina,b,1992,0,75
+NC,North Carolina,b,1993,0,74.79
+NC,North Carolina,b,1994,0,74.96
+NC,North Carolina,b,1995,0,75.1
 NC,North Carolina,b,1996,0,75.22
 NC,North Carolina,b,1997,0,75.67
 NC,North Carolina,b,1998,0,75.66
@@ -1666,10 +2025,10 @@ NC,North Carolina,b,2001,0,76.02
 NC,North Carolina,b,2002,0,76.2
 NC,North Carolina,b,2003,0,76.23
 NC,North Carolina,b,2004,0,76.56
-NC,North Carolina,b,2018,0,78.05
-NC,North Carolina,b,1979,0,72.92
-NC,North Carolina,b,1980,0,72.95
-NC,North Carolina,b,1981,0,73.22
+NC,North Carolina,b,2005,0,76.62
+NC,North Carolina,b,2006,0,76.88
+NC,North Carolina,b,2007,0,77.05
+NC,North Carolina,b,2008,0,77.3
 NC,North Carolina,b,2009,0,77.62
 NC,North Carolina,b,2010,0,77.82
 NC,North Carolina,b,2011,0,77.95
@@ -1679,10 +2038,11 @@ NC,North Carolina,b,2014,0,78.09
 NC,North Carolina,b,2015,0,77.88
 NC,North Carolina,b,2016,0,77.86
 NC,North Carolina,b,2017,0,77.78
-ND,North Dakota,b,2015,0,79.53
-ND,North Dakota,b,2016,0,79.74
-ND,North Dakota,b,2017,0,79.81
-ND,North Dakota,b,2018,0,79.83
+NC,North Carolina,b,2018,0,78.05
+ND,North Dakota,b,1959,0,71.65
+ND,North Dakota,b,1960,0,71.51
+ND,North Dakota,b,1961,0,72.27
+ND,North Dakota,b,1962,0,71.98
 ND,North Dakota,b,1963,0,71.91
 ND,North Dakota,b,1964,0,72.03
 ND,North Dakota,b,1965,0,72.16
@@ -1735,370 +2095,14 @@ ND,North Dakota,b,2011,0,79.71
 ND,North Dakota,b,2012,0,79.64
 ND,North Dakota,b,2013,0,79.43
 ND,North Dakota,b,2014,0,79.87
-ND,North Dakota,b,1959,0,71.65
-ND,North Dakota,b,1960,0,71.51
-ND,North Dakota,b,1961,0,72.27
-ND,North Dakota,b,1962,0,71.98
-NE,Nebraska,b,1963,0,72.09
-NE,Nebraska,b,1961,0,72.19
-NE,Nebraska,b,1962,0,72.21
-NE,Nebraska,b,1967,0,72.58
-NE,Nebraska,b,1960,0,71.97
-NE,Nebraska,b,1965,0,71.98
-NE,Nebraska,b,1966,0,72.21
-NE,Nebraska,b,1971,0,72.74
-NE,Nebraska,b,1972,0,72.92
-NE,Nebraska,b,1973,0,73.39
-NE,Nebraska,b,1974,0,73.59
-NE,Nebraska,b,1975,0,74.08
-NE,Nebraska,b,1976,0,74.39
-NE,Nebraska,b,1977,0,74.83
-NE,Nebraska,b,1978,0,75.03
-NE,Nebraska,b,1979,0,75.53
-NE,Nebraska,b,1980,0,75.37
-NE,Nebraska,b,1968,0,72.34
-NE,Nebraska,b,1969,0,72.61
-NE,Nebraska,b,1970,0,72.51
-NE,Nebraska,b,1984,0,76.33
-NE,Nebraska,b,1985,0,76.38
-NE,Nebraska,b,1986,0,76.38
-NE,Nebraska,b,1987,0,76.5
-NE,Nebraska,b,1988,0,76.57
-NE,Nebraska,b,1989,0,76.83
-NE,Nebraska,b,1990,0,76.91
-NE,Nebraska,b,1991,0,77.17
-NE,Nebraska,b,1992,0,77.48
-NE,Nebraska,b,1993,0,77.14
-NE,Nebraska,b,1994,0,77.33
-NE,Nebraska,b,1995,0,77.55
-NE,Nebraska,b,1996,0,77.4
-NE,Nebraska,b,1997,0,77.7
-NE,Nebraska,b,1998,0,77.89
-NE,Nebraska,b,1999,0,77.72
-NE,Nebraska,b,2000,0,78.28
-NE,Nebraska,b,2001,0,78.3
-NE,Nebraska,b,2002,0,77.91
-NE,Nebraska,b,2003,0,78.44
-NE,Nebraska,b,2004,0,78.99
-NE,Nebraska,b,2005,0,78.94
-NE,Nebraska,b,2006,0,79.13
-NE,Nebraska,b,2007,0,79
-NE,Nebraska,b,2008,0,79.08
-NE,Nebraska,b,2009,0,79.62
-NE,Nebraska,b,2010,0,79.65
-NE,Nebraska,b,2011,0,79.58
-NE,Nebraska,b,2012,0,79.61
-NE,Nebraska,b,2013,0,79.74
-NE,Nebraska,b,2014,0,79.53
-NE,Nebraska,b,2015,0,79.25
-NE,Nebraska,b,2016,0,79.67
-NE,Nebraska,b,2017,0,79.4
-NE,Nebraska,b,2018,0,79.45
-NE,Nebraska,b,1964,0,71.91
-NE,Nebraska,b,1981,0,75.65
-NE,Nebraska,b,1982,0,75.98
-NE,Nebraska,b,1983,0,76.16
-NE,Nebraska,b,1959,0,71.9
-NH,New Hampshire,b,1960,0,70.72
-NH,New Hampshire,b,1964,0,70.65
-NH,New Hampshire,b,1972,0,72.15
-NH,New Hampshire,b,1973,0,72.33
-NH,New Hampshire,b,1959,0,70.46
-NH,New Hampshire,b,1976,0,73.85
-NH,New Hampshire,b,1977,0,74.58
-NH,New Hampshire,b,1974,0,72.55
-NH,New Hampshire,b,1975,0,73.79
-NH,New Hampshire,b,1967,0,71.06
-NH,New Hampshire,b,1968,0,70.97
-NH,New Hampshire,b,1965,0,70.72
-NH,New Hampshire,b,1966,0,70.97
-NH,New Hampshire,b,1971,0,71.66
-NH,New Hampshire,b,1998,0,78.1
-NH,New Hampshire,b,1999,0,78.31
-NH,New Hampshire,b,2000,0,78.51
-NH,New Hampshire,b,2001,0,78.56
-NH,New Hampshire,b,2002,0,78.74
-NH,New Hampshire,b,2003,0,79.21
-NH,New Hampshire,b,2004,0,79.04
-NH,New Hampshire,b,2005,0,79.12
-NH,New Hampshire,b,2006,0,79.52
-NH,New Hampshire,b,2007,0,79.51
-NH,New Hampshire,b,1969,0,70.97
-NH,New Hampshire,b,1970,0,71.55
-NH,New Hampshire,b,2010,0,80.29
-NH,New Hampshire,b,2011,0,80.07
-NH,New Hampshire,b,2012,0,80.38
-NH,New Hampshire,b,2013,0,80.37
-NH,New Hampshire,b,2014,0,79.94
-NH,New Hampshire,b,2015,0,79.58
-NH,New Hampshire,b,2016,0,79.35
-NH,New Hampshire,b,2017,0,79.49
-NH,New Hampshire,b,1978,0,74.67
-NH,New Hampshire,b,1979,0,74.87
-NH,New Hampshire,b,1980,0,75.09
-NH,New Hampshire,b,2008,0,79.92
-NH,New Hampshire,b,2009,0,80.21
-NH,New Hampshire,b,1983,0,75.62
-NH,New Hampshire,b,1984,0,75.72
-NH,New Hampshire,b,1985,0,75.43
-NH,New Hampshire,b,1986,0,75.76
-NH,New Hampshire,b,1987,0,76.19
-NH,New Hampshire,b,1988,0,76.06
-NH,New Hampshire,b,1989,0,76.52
-NH,New Hampshire,b,1990,0,76.95
-NH,New Hampshire,b,1991,0,77.24
-NH,New Hampshire,b,1992,0,77.59
-NH,New Hampshire,b,1993,0,77.53
-NH,New Hampshire,b,1994,0,77.65
-NH,New Hampshire,b,1995,0,77.57
-NH,New Hampshire,b,1996,0,77.78
-NH,New Hampshire,b,1997,0,78
-NH,New Hampshire,b,1961,0,70.81
-NH,New Hampshire,b,1962,0,71.03
-NH,New Hampshire,b,1963,0,70.45
-NH,New Hampshire,b,1982,0,75.58
-NH,New Hampshire,b,2018,0,79.49
-NH,New Hampshire,b,1981,0,75.23
-NJ,New Jersey,b,1979,0,73.94
-NJ,New Jersey,b,1981,0,74.29
-NJ,New Jersey,b,1978,0,73.71
-NJ,New Jersey,b,1987,0,74.65
-NJ,New Jersey,b,1980,0,73.75
-NJ,New Jersey,b,1985,0,74.53
-NJ,New Jersey,b,1990,0,75.43
-NJ,New Jersey,b,1991,0,75.64
-NJ,New Jersey,b,1992,0,75.79
-NJ,New Jersey,b,1993,0,75.71
-NJ,New Jersey,b,1994,0,75.94
-NJ,New Jersey,b,1995,0,75.99
-NJ,New Jersey,b,1996,0,76.46
-NJ,New Jersey,b,1997,0,76.97
-NJ,New Jersey,b,1998,0,77.38
-NJ,New Jersey,b,1986,0,74.66
-NJ,New Jersey,b,1959,0,69.94
-NJ,New Jersey,b,1988,0,74.56
-NJ,New Jersey,b,1989,0,75.02
-NJ,New Jersey,b,1962,0,70.09
-NJ,New Jersey,b,1963,0,69.93
-NJ,New Jersey,b,1964,0,70.09
-NJ,New Jersey,b,1965,0,70.25
-NJ,New Jersey,b,1967,0,70.61
-NJ,New Jersey,b,1968,0,70.3
-NJ,New Jersey,b,1969,0,70.7
-NJ,New Jersey,b,1970,0,70.96
-NJ,New Jersey,b,1971,0,71.2
-NJ,New Jersey,b,1972,0,71.47
-NJ,New Jersey,b,1973,0,71.78
-NJ,New Jersey,b,1974,0,72.29
-NJ,New Jersey,b,1975,0,72.88
-NJ,New Jersey,b,1976,0,73.21
-NJ,New Jersey,b,1977,0,73.37
-NJ,New Jersey,b,2018,0,80.24
-NJ,New Jersey,b,2005,0,78.6
-NJ,New Jersey,b,2006,0,78.81
-NJ,New Jersey,b,2007,0,79.27
-NJ,New Jersey,b,1982,0,74.42
-NJ,New Jersey,b,1983,0,74.49
-NJ,New Jersey,b,1984,0,74.67
-NJ,New Jersey,b,2011,0,79.91
-NJ,New Jersey,b,1999,0,77.24
-NJ,New Jersey,b,2000,0,77.32
-NJ,New Jersey,b,2001,0,77.37
-NJ,New Jersey,b,2002,0,77.8
-NJ,New Jersey,b,2003,0,78.02
-NJ,New Jersey,b,2004,0,78.47
-NJ,New Jersey,b,2009,0,79.89
-NJ,New Jersey,b,2010,0,79.97
-NJ,New Jersey,b,2015,0,80.43
-NJ,New Jersey,b,2008,0,79.43
-NJ,New Jersey,b,2013,0,80.26
-NJ,New Jersey,b,2014,0,80.41
-NJ,New Jersey,b,2012,0,80.22
-NJ,New Jersey,b,2017,0,80.19
-NJ,New Jersey,b,1966,0,70.28
-NJ,New Jersey,b,2016,0,80.29
-NJ,New Jersey,b,1960,0,69.94
-NJ,New Jersey,b,1961,0,70.01
-NM,New Mexico,b,1962,0,70.17
-NM,New Mexico,b,1965,0,70.27
-NM,New Mexico,b,1973,0,70.82
-NM,New Mexico,b,1974,0,71.63
-NM,New Mexico,b,1960,0,69.29
-NM,New Mexico,b,1961,0,70.11
-NM,New Mexico,b,1977,0,73.51
-NM,New Mexico,b,1978,0,73.45
-NM,New Mexico,b,1975,0,72.43
-NM,New Mexico,b,1972,0,70.86
-NM,New Mexico,b,1968,0,70.32
-NM,New Mexico,b,1969,0,70.45
-NM,New Mexico,b,1966,0,70.21
-NM,New Mexico,b,1967,0,70.48
-NM,New Mexico,b,1959,0,69.61
-NM,New Mexico,b,1999,0,76.71
-NM,New Mexico,b,2000,0,77.13
-NM,New Mexico,b,2001,0,76.94
-NM,New Mexico,b,1976,0,72.67
-NM,New Mexico,b,2003,0,76.83
-NM,New Mexico,b,2004,0,77.46
-NM,New Mexico,b,2005,0,77.3
-NM,New Mexico,b,2006,0,77.37
-NM,New Mexico,b,2007,0,77.45
-NM,New Mexico,b,2008,0,77.35
-NM,New Mexico,b,1970,0,70.51
-NM,New Mexico,b,1971,0,70.75
-NM,New Mexico,b,2011,0,77.99
-NM,New Mexico,b,2012,0,77.96
-NM,New Mexico,b,2013,0,78.31
-NM,New Mexico,b,2014,0,77.81
-NM,New Mexico,b,2002,0,76.93
-NM,New Mexico,b,2016,0,77.6
-NM,New Mexico,b,2017,0,77.75
-NM,New Mexico,b,2018,0,77.75
-NM,New Mexico,b,1979,0,73.63
-NM,New Mexico,b,1980,0,73.81
-NM,New Mexico,b,1981,0,74.99
-NM,New Mexico,b,2009,0,77.92
-NM,New Mexico,b,2010,0,78.13
-NM,New Mexico,b,1984,0,75.26
-NM,New Mexico,b,1985,0,75.23
-NM,New Mexico,b,1986,0,75.2
-NM,New Mexico,b,1987,0,75.34
-NM,New Mexico,b,2015,0,77.89
-NM,New Mexico,b,1989,0,75.77
-NM,New Mexico,b,1990,0,76.02
-NM,New Mexico,b,1991,0,75.83
-NM,New Mexico,b,1992,0,76.38
-NM,New Mexico,b,1993,0,76.14
-NM,New Mexico,b,1994,0,76.27
-NM,New Mexico,b,1995,0,76.28
-NM,New Mexico,b,1996,0,76.68
-NM,New Mexico,b,1997,0,76.92
-NM,New Mexico,b,1998,0,77.07
-NM,New Mexico,b,1963,0,69.79
-NM,New Mexico,b,1964,0,69.91
-NM,New Mexico,b,1988,0,75.5
-NM,New Mexico,b,1982,0,74.68
-NM,New Mexico,b,1983,0,75.27
-NV,Nevada,b,1981,0,73.47
-NV,Nevada,b,1985,0,74
-NV,Nevada,b,1986,0,74.24
-NV,Nevada,b,1987,0,74.27
-NV,Nevada,b,1989,0,74.62
-NV,Nevada,b,1990,0,74.52
-NV,Nevada,b,1991,0,74.53
-NV,Nevada,b,1992,0,75.13
-NV,Nevada,b,1980,0,72.6
-NV,Nevada,b,1994,0,74.83
-NV,Nevada,b,1995,0,75.11
-NV,Nevada,b,1996,0,75.19
-NV,Nevada,b,1997,0,75.76
-NV,Nevada,b,1998,0,75.54
-NV,Nevada,b,1959,0,67.88
-NV,Nevada,b,1960,0,67.61
-NV,Nevada,b,1988,0,74.12
-NV,Nevada,b,1963,0,67.74
-NV,Nevada,b,1964,0,67.69
-NV,Nevada,b,1965,0,68.19
-NV,Nevada,b,1966,0,68.7
-NV,Nevada,b,1993,0,74.9
-NV,Nevada,b,1967,0,69.42
-NV,Nevada,b,1968,0,68.87
-NV,Nevada,b,1969,0,69.28
-NV,Nevada,b,1970,0,69.31
-NV,Nevada,b,1971,0,69.76
-NV,Nevada,b,1972,0,70.47
-NV,Nevada,b,1973,0,70.72
-NV,Nevada,b,1974,0,71.06
-NV,Nevada,b,1975,0,71.7
-NV,Nevada,b,1976,0,72.36
-NV,Nevada,b,1977,0,72.38
-NV,Nevada,b,1978,0,72.82
-NV,Nevada,b,1979,0,72.9
-NV,Nevada,b,2006,0,76.58
-NV,Nevada,b,2007,0,77.04
-NV,Nevada,b,1982,0,73.32
-NV,Nevada,b,1983,0,74.1
-NV,Nevada,b,1984,0,74.05
-NV,Nevada,b,2011,0,77.75
-NV,Nevada,b,1999,0,75.65
-NV,Nevada,b,2000,0,75.94
-NV,Nevada,b,2001,0,75.96
-NV,Nevada,b,2002,0,76.09
-NV,Nevada,b,2003,0,75.95
-NV,Nevada,b,2004,0,76.39
-NV,Nevada,b,2005,0,76.08
-NV,Nevada,b,2010,0,77.81
-NV,Nevada,b,2015,0,78.09
-NV,Nevada,b,2008,0,77.26
-NV,Nevada,b,2009,0,77.67
-NV,Nevada,b,2014,0,78.22
-NV,Nevada,b,2012,0,78.1
-NV,Nevada,b,2013,0,78.04
-NV,Nevada,b,2018,0,78.41
-NV,Nevada,b,2016,0,77.95
-NV,Nevada,b,2017,0,78.04
-NV,Nevada,b,1962,0,68.25
-NV,Nevada,b,1961,0,68.05
-NY,New York,b,1959,0,69.55
-NY,New York,b,1963,0,69.76
-NY,New York,b,1960,0,69.67
-NY,New York,b,1968,0,69.94
-NY,New York,b,1969,0,70.26
-NY,New York,b,1961,0,69.84
-NY,New York,b,1967,0,70.2
-NY,New York,b,1972,0,71.09
-NY,New York,b,1973,0,71.47
-NY,New York,b,1974,0,71.95
-NY,New York,b,1975,0,72.59
-NY,New York,b,1962,0,69.8
-NY,New York,b,1977,0,73.05
-NY,New York,b,1978,0,73.36
-NY,New York,b,1979,0,73.73
-NY,New York,b,1980,0,73.4
-NY,New York,b,1981,0,73.81
-NY,New York,b,1982,0,74.04
-NY,New York,b,1970,0,70.47
-NY,New York,b,1971,0,70.83
-NY,New York,b,1985,0,74.08
-NY,New York,b,1986,0,73.97
-NY,New York,b,1987,0,73.99
-NY,New York,b,1988,0,73.88
-NY,New York,b,1976,0,72.64
-NY,New York,b,1990,0,74.59
-NY,New York,b,1991,0,74.82
-NY,New York,b,1992,0,75.1
-NY,New York,b,1993,0,74.97
-NY,New York,b,1994,0,75.27
-NY,New York,b,1995,0,75.52
-NY,New York,b,1996,0,76.19
-NY,New York,b,1997,0,76.95
-NY,New York,b,1998,0,77.4
-NY,New York,b,1999,0,77.34
-NY,New York,b,2000,0,77.64
-NY,New York,b,2001,0,77.64
-NY,New York,b,2002,0,78.02
-NY,New York,b,2003,0,78.32
-NY,New York,b,2004,0,78.68
-NY,New York,b,2005,0,78.86
-NY,New York,b,2006,0,79.23
-NY,New York,b,2007,0,79.49
-NY,New York,b,2008,0,79.63
-NY,New York,b,2009,0,79.94
-NY,New York,b,2010,0,80.22
-NY,New York,b,2011,0,80.28
-NY,New York,b,2012,0,80.52
-NY,New York,b,2013,0,80.59
-NY,New York,b,2014,0,80.87
-NY,New York,b,2015,0,80.82
-NY,New York,b,2016,0,80.8
-NY,New York,b,2017,0,80.98
-NY,New York,b,2018,0,81.09
-NY,New York,b,1983,0,74.07
-NY,New York,b,1964,0,69.9
-NY,New York,b,1965,0,70.14
-NY,New York,b,1966,0,70.02
-NY,New York,b,1984,0,74.13
-NY,New York,b,1989,0,74.22
+ND,North Dakota,b,2015,0,79.53
+ND,North Dakota,b,2016,0,79.74
+ND,North Dakota,b,2017,0,79.81
+ND,North Dakota,b,2018,0,79.83
+OH,Ohio,b,1959,0,70.14
+OH,Ohio,b,1960,0,70.17
+OH,Ohio,b,1961,0,70.56
+OH,Ohio,b,1962,0,70.44
 OH,Ohio,b,1963,0,70.24
 OH,Ohio,b,1964,0,70.45
 OH,Ohio,b,1965,0,70.37
@@ -2108,10 +2112,10 @@ OH,Ohio,b,1968,0,70.18
 OH,Ohio,b,1969,0,70.51
 OH,Ohio,b,1970,0,70.78
 OH,Ohio,b,1971,0,71.15
-OH,Ohio,b,1959,0,70.14
-OH,Ohio,b,1960,0,70.17
-OH,Ohio,b,1961,0,70.56
-OH,Ohio,b,1962,0,70.44
+OH,Ohio,b,1972,0,71.04
+OH,Ohio,b,1973,0,71.29
+OH,Ohio,b,1974,0,71.79
+OH,Ohio,b,1975,0,72.29
 OH,Ohio,b,1976,0,72.61
 OH,Ohio,b,1977,0,72.75
 OH,Ohio,b,1978,0,73.07
@@ -2121,10 +2125,10 @@ OH,Ohio,b,1981,0,73.76
 OH,Ohio,b,1982,0,74.3
 OH,Ohio,b,1983,0,74.22
 OH,Ohio,b,1984,0,74.48
-OH,Ohio,b,1972,0,71.04
-OH,Ohio,b,1973,0,71.29
-OH,Ohio,b,1974,0,71.79
-OH,Ohio,b,1975,0,72.29
+OH,Ohio,b,1985,0,74.53
+OH,Ohio,b,1986,0,74.54
+OH,Ohio,b,1987,0,74.79
+OH,Ohio,b,1988,0,74.83
 OH,Ohio,b,1989,0,75.23
 OH,Ohio,b,1990,0,75.32
 OH,Ohio,b,1991,0,75.39
@@ -2155,16 +2159,16 @@ OH,Ohio,b,2015,0,77.27
 OH,Ohio,b,2016,0,77.01
 OH,Ohio,b,2017,0,76.64
 OH,Ohio,b,2018,0,77.02
-OH,Ohio,b,1987,0,74.79
-OH,Ohio,b,1988,0,74.83
-OH,Ohio,b,1985,0,74.53
-OH,Ohio,b,1986,0,74.54
 OK,Oklahoma,b,1959,0,71.13
 OK,Oklahoma,b,1960,0,70.79
 OK,Oklahoma,b,1961,0,71.15
 OK,Oklahoma,b,1962,0,71
 OK,Oklahoma,b,1963,0,70.92
 OK,Oklahoma,b,1964,0,71.16
+OK,Oklahoma,b,1965,0,71.65
+OK,Oklahoma,b,1966,0,71.27
+OK,Oklahoma,b,1967,0,71.42
+OK,Oklahoma,b,1968,0,71.26
 OK,Oklahoma,b,1969,0,71.25
 OK,Oklahoma,b,1970,0,71.06
 OK,Oklahoma,b,1971,0,71.94
@@ -2215,24 +2219,25 @@ OK,Oklahoma,b,2015,0,75.69
 OK,Oklahoma,b,2016,0,75.82
 OK,Oklahoma,b,2017,0,75.78
 OK,Oklahoma,b,2018,0,75.95
-OK,Oklahoma,b,1968,0,71.26
-OK,Oklahoma,b,1965,0,71.65
-OK,Oklahoma,b,1966,0,71.27
-OK,Oklahoma,b,1967,0,71.42
 OR,Oregon,b,1959,0,70.67
+OR,Oregon,b,1960,0,71.02
+OR,Oregon,b,1961,0,71.42
+OR,Oregon,b,1962,0,71.58
+OR,Oregon,b,1963,0,71.31
 OR,Oregon,b,1964,0,71.45
 OR,Oregon,b,1965,0,71.58
 OR,Oregon,b,1966,0,71.29
 OR,Oregon,b,1967,0,71.64
 OR,Oregon,b,1968,0,71.87
 OR,Oregon,b,1969,0,71.96
+OR,Oregon,b,1970,0,72.41
 OR,Oregon,b,1971,0,72.33
 OR,Oregon,b,1972,0,72.59
 OR,Oregon,b,1973,0,72.67
-OR,Oregon,b,1960,0,71.02
-OR,Oregon,b,1961,0,71.42
-OR,Oregon,b,1962,0,71.58
-OR,Oregon,b,1963,0,71.31
+OR,Oregon,b,1974,0,73.17
+OR,Oregon,b,1975,0,73.73
+OR,Oregon,b,1976,0,73.97
+OR,Oregon,b,1977,0,74.29
 OR,Oregon,b,1978,0,74.54
 OR,Oregon,b,1979,0,74.99
 OR,Oregon,b,1980,0,74.9
@@ -2242,10 +2247,10 @@ OR,Oregon,b,1983,0,75.66
 OR,Oregon,b,1984,0,75.53
 OR,Oregon,b,1985,0,75.58
 OR,Oregon,b,1986,0,75.94
-OR,Oregon,b,1974,0,73.17
-OR,Oregon,b,1975,0,73.73
-OR,Oregon,b,1976,0,73.97
-OR,Oregon,b,1977,0,74.29
+OR,Oregon,b,1987,0,75.78
+OR,Oregon,b,1988,0,75.88
+OR,Oregon,b,1989,0,76.15
+OR,Oregon,b,1990,0,76.47
 OR,Oregon,b,1991,0,76.91
 OR,Oregon,b,1992,0,76.99
 OR,Oregon,b,1993,0,76.53
@@ -2274,11 +2279,6 @@ OR,Oregon,b,2015,0,79.44
 OR,Oregon,b,2016,0,79.62
 OR,Oregon,b,2017,0,79.55
 OR,Oregon,b,2018,0,79.99
-OR,Oregon,b,1987,0,75.78
-OR,Oregon,b,1988,0,75.88
-OR,Oregon,b,1989,0,76.15
-OR,Oregon,b,1970,0,72.41
-OR,Oregon,b,1990,0,76.47
 PA,Pennsylvania,b,1959,0,69.39
 PA,Pennsylvania,b,1960,0,69.47
 PA,Pennsylvania,b,1961,0,69.77
@@ -2699,86 +2699,6 @@ UT,Utah,b,2015,0,79.57
 UT,Utah,b,2016,0,79.47
 UT,Utah,b,2017,0,79.73
 UT,Utah,b,2018,0,79.93
-VA,Virginia,b,1960,0,68.72
-VA,Virginia,b,1961,0,69.28
-VA,Virginia,b,1964,0,69.23
-VA,Virginia,b,1965,0,69.34
-VA,Virginia,b,1962,0,69
-VA,Virginia,b,1963,0,68.84
-VA,Virginia,b,1959,0,68.8
-VA,Virginia,b,1973,0,70.76
-VA,Virginia,b,1974,0,71.42
-VA,Virginia,b,1975,0,72.02
-VA,Virginia,b,1976,0,72.34
-VA,Virginia,b,1977,0,72.8
-VA,Virginia,b,1978,0,73.13
-VA,Virginia,b,1966,0,69.49
-VA,Virginia,b,1967,0,69.8
-VA,Virginia,b,1968,0,69.29
-VA,Virginia,b,1969,0,69.76
-VA,Virginia,b,1970,0,70.24
-VA,Virginia,b,1971,0,70.51
-VA,Virginia,b,1972,0,70.45
-VA,Virginia,b,1999,0,76.71
-VA,Virginia,b,2000,0,76.78
-VA,Virginia,b,2001,0,77.06
-VA,Virginia,b,2002,0,77.18
-VA,Virginia,b,2003,0,77.14
-VA,Virginia,b,2004,0,77.77
-VA,Virginia,b,2005,0,77.74
-VA,Virginia,b,2006,0,78.1
-VA,Virginia,b,2007,0,78.21
-VA,Virginia,b,2008,0,78.43
-VA,Virginia,b,2009,0,78.77
-VA,Virginia,b,2010,0,79.05
-VA,Virginia,b,2011,0,79.03
-VA,Virginia,b,2012,0,79.25
-VA,Virginia,b,2013,0,79.35
-VA,Virginia,b,2014,0,79.43
-VA,Virginia,b,2015,0,79.3
-VA,Virginia,b,2016,0,79.32
-VA,Virginia,b,2017,0,79.27
-VA,Virginia,b,2018,0,79.38
-VA,Virginia,b,1979,0,73.41
-VA,Virginia,b,1980,0,73.32
-VA,Virginia,b,1981,0,73.81
-VA,Virginia,b,1982,0,74.3
-VA,Virginia,b,1983,0,74.25
-VA,Virginia,b,1984,0,74.33
-VA,Virginia,b,1985,0,74.47
-VA,Virginia,b,1986,0,74.48
-VA,Virginia,b,1987,0,74.79
-VA,Virginia,b,1988,0,74.83
-VA,Virginia,b,1989,0,75.22
-VA,Virginia,b,1990,0,75.33
-VA,Virginia,b,1991,0,75.4
-VA,Virginia,b,1992,0,75.79
-VA,Virginia,b,1993,0,75.63
-VA,Virginia,b,1994,0,75.78
-VA,Virginia,b,1995,0,75.94
-VA,Virginia,b,1996,0,76.14
-VA,Virginia,b,1997,0,76.4
-VA,Virginia,b,1998,0,76.62
-VT,Vermont,b,1979,0,75.16
-VT,Vermont,b,1980,0,74.29
-VT,Vermont,b,1981,0,75.27
-VT,Vermont,b,1982,0,75.14
-VT,Vermont,b,1983,0,75.18
-VT,Vermont,b,1984,0,75.58
-VT,Vermont,b,1985,0,75.5
-VT,Vermont,b,1986,0,75.37
-VT,Vermont,b,1987,0,75.52
-VT,Vermont,b,1988,0,76.37
-VT,Vermont,b,1989,0,76.42
-VT,Vermont,b,1990,0,76.7
-VT,Vermont,b,1991,0,77.25
-VT,Vermont,b,1992,0,76.85
-VT,Vermont,b,1993,0,76.63
-VT,Vermont,b,1994,0,77.48
-VT,Vermont,b,1995,0,77.2
-VT,Vermont,b,1996,0,77.65
-VT,Vermont,b,1997,0,77.79
-VT,Vermont,b,1998,0,78.07
 VT,Vermont,b,1959,0,70.36
 VT,Vermont,b,1960,0,70.43
 VT,Vermont,b,1961,0,70.6
@@ -2799,6 +2719,32 @@ VT,Vermont,b,1975,0,73.49
 VT,Vermont,b,1976,0,73.95
 VT,Vermont,b,1977,0,74.56
 VT,Vermont,b,1978,0,74.07
+VT,Vermont,b,1979,0,75.16
+VT,Vermont,b,1980,0,74.29
+VT,Vermont,b,1981,0,75.27
+VT,Vermont,b,1982,0,75.14
+VT,Vermont,b,1983,0,75.18
+VT,Vermont,b,1984,0,75.58
+VT,Vermont,b,1985,0,75.5
+VT,Vermont,b,1986,0,75.37
+VT,Vermont,b,1987,0,75.52
+VT,Vermont,b,1988,0,76.37
+VT,Vermont,b,1989,0,76.42
+VT,Vermont,b,1990,0,76.7
+VT,Vermont,b,1991,0,77.25
+VT,Vermont,b,1992,0,76.85
+VT,Vermont,b,1993,0,76.63
+VT,Vermont,b,1994,0,77.48
+VT,Vermont,b,1995,0,77.2
+VT,Vermont,b,1996,0,77.65
+VT,Vermont,b,1997,0,77.79
+VT,Vermont,b,1998,0,78.07
+VT,Vermont,b,1999,0,78.11
+VT,Vermont,b,2000,0,78.19
+VT,Vermont,b,2001,0,78.32
+VT,Vermont,b,2002,0,78.79
+VT,Vermont,b,2003,0,78.91
+VT,Vermont,b,2004,0,79.5
 VT,Vermont,b,2005,0,79.39
 VT,Vermont,b,2006,0,79.46
 VT,Vermont,b,2007,0,79.6
@@ -2806,19 +2752,73 @@ VT,Vermont,b,2008,0,79.8
 VT,Vermont,b,2009,0,80.35
 VT,Vermont,b,2010,0,80.11
 VT,Vermont,b,2011,0,79.86
-VT,Vermont,b,1999,0,78.11
-VT,Vermont,b,2000,0,78.19
-VT,Vermont,b,2001,0,78.32
-VT,Vermont,b,2002,0,78.79
-VT,Vermont,b,2003,0,78.91
-VT,Vermont,b,2004,0,79.5
-VT,Vermont,b,2018,0,79.67
-VT,Vermont,b,2014,0,80.14
-VT,Vermont,b,2015,0,79.79
 VT,Vermont,b,2012,0,80.25
 VT,Vermont,b,2013,0,79.9
+VT,Vermont,b,2014,0,80.14
+VT,Vermont,b,2015,0,79.79
 VT,Vermont,b,2016,0,79.72
 VT,Vermont,b,2017,0,79.66
+VT,Vermont,b,2018,0,79.67
+VA,Virginia,b,1959,0,68.8
+VA,Virginia,b,1960,0,68.72
+VA,Virginia,b,1961,0,69.28
+VA,Virginia,b,1962,0,69
+VA,Virginia,b,1963,0,68.84
+VA,Virginia,b,1964,0,69.23
+VA,Virginia,b,1965,0,69.34
+VA,Virginia,b,1966,0,69.49
+VA,Virginia,b,1967,0,69.8
+VA,Virginia,b,1968,0,69.29
+VA,Virginia,b,1969,0,69.76
+VA,Virginia,b,1970,0,70.24
+VA,Virginia,b,1971,0,70.51
+VA,Virginia,b,1972,0,70.45
+VA,Virginia,b,1973,0,70.76
+VA,Virginia,b,1974,0,71.42
+VA,Virginia,b,1975,0,72.02
+VA,Virginia,b,1976,0,72.34
+VA,Virginia,b,1977,0,72.8
+VA,Virginia,b,1978,0,73.13
+VA,Virginia,b,1979,0,73.41
+VA,Virginia,b,1980,0,73.32
+VA,Virginia,b,1981,0,73.81
+VA,Virginia,b,1982,0,74.3
+VA,Virginia,b,1983,0,74.25
+VA,Virginia,b,1984,0,74.33
+VA,Virginia,b,1985,0,74.47
+VA,Virginia,b,1986,0,74.48
+VA,Virginia,b,1987,0,74.79
+VA,Virginia,b,1988,0,74.83
+VA,Virginia,b,1989,0,75.22
+VA,Virginia,b,1990,0,75.33
+VA,Virginia,b,1991,0,75.4
+VA,Virginia,b,1992,0,75.79
+VA,Virginia,b,1993,0,75.63
+VA,Virginia,b,1994,0,75.78
+VA,Virginia,b,1995,0,75.94
+VA,Virginia,b,1996,0,76.14
+VA,Virginia,b,1997,0,76.4
+VA,Virginia,b,1998,0,76.62
+VA,Virginia,b,1999,0,76.71
+VA,Virginia,b,2000,0,76.78
+VA,Virginia,b,2001,0,77.06
+VA,Virginia,b,2002,0,77.18
+VA,Virginia,b,2003,0,77.14
+VA,Virginia,b,2004,0,77.77
+VA,Virginia,b,2005,0,77.74
+VA,Virginia,b,2006,0,78.1
+VA,Virginia,b,2007,0,78.21
+VA,Virginia,b,2008,0,78.43
+VA,Virginia,b,2009,0,78.77
+VA,Virginia,b,2010,0,79.05
+VA,Virginia,b,2011,0,79.03
+VA,Virginia,b,2012,0,79.25
+VA,Virginia,b,2013,0,79.35
+VA,Virginia,b,2014,0,79.43
+VA,Virginia,b,2015,0,79.3
+VA,Virginia,b,2016,0,79.32
+VA,Virginia,b,2017,0,79.27
+VA,Virginia,b,2018,0,79.38
 WA,Washington,b,1959,0,70.8
 WA,Washington,b,1960,0,71.05
 WA,Washington,b,1961,0,71.36
@@ -2879,86 +2879,6 @@ WA,Washington,b,2015,0,80.08
 WA,Washington,b,2016,0,80.35
 WA,Washington,b,2017,0,80.17
 WA,Washington,b,2018,0,80.36
-WI,Wisconsin,b,1960,0,71.11
-WI,Wisconsin,b,1961,0,71.69
-WI,Wisconsin,b,1964,0,71.8
-WI,Wisconsin,b,1965,0,71.63
-WI,Wisconsin,b,1962,0,71.69
-WI,Wisconsin,b,1963,0,71.51
-WI,Wisconsin,b,1959,0,71.18
-WI,Wisconsin,b,1973,0,73.17
-WI,Wisconsin,b,1974,0,73.47
-WI,Wisconsin,b,1975,0,73.99
-WI,Wisconsin,b,1976,0,74.28
-WI,Wisconsin,b,1977,0,74.76
-WI,Wisconsin,b,1978,0,74.74
-WI,Wisconsin,b,1966,0,71.74
-WI,Wisconsin,b,1967,0,72.21
-WI,Wisconsin,b,1968,0,71.85
-WI,Wisconsin,b,1969,0,72.18
-WI,Wisconsin,b,1970,0,72.47
-WI,Wisconsin,b,1971,0,72.93
-WI,Wisconsin,b,1972,0,72.81
-WI,Wisconsin,b,1999,0,77.8
-WI,Wisconsin,b,2000,0,77.97
-WI,Wisconsin,b,2001,0,78.08
-WI,Wisconsin,b,2002,0,78.14
-WI,Wisconsin,b,2003,0,78.52
-WI,Wisconsin,b,2004,0,78.88
-WI,Wisconsin,b,2005,0,78.73
-WI,Wisconsin,b,2006,0,79.11
-WI,Wisconsin,b,2007,0,79.15
-WI,Wisconsin,b,2008,0,79.31
-WI,Wisconsin,b,2009,0,79.8
-WI,Wisconsin,b,2010,0,79.64
-WI,Wisconsin,b,2011,0,79.52
-WI,Wisconsin,b,2012,0,79.74
-WI,Wisconsin,b,2013,0,79.52
-WI,Wisconsin,b,2014,0,79.66
-WI,Wisconsin,b,2015,0,79.57
-WI,Wisconsin,b,2016,0,79.38
-WI,Wisconsin,b,2017,0,79.4
-WI,Wisconsin,b,2018,0,79.44
-WI,Wisconsin,b,1979,0,75.37
-WI,Wisconsin,b,1980,0,75.29
-WI,Wisconsin,b,1981,0,75.55
-WI,Wisconsin,b,1982,0,75.94
-WI,Wisconsin,b,1983,0,76
-WI,Wisconsin,b,1984,0,76.13
-WI,Wisconsin,b,1985,0,76.36
-WI,Wisconsin,b,1986,0,76.3
-WI,Wisconsin,b,1987,0,76.49
-WI,Wisconsin,b,1988,0,76.51
-WI,Wisconsin,b,1989,0,76.82
-WI,Wisconsin,b,1990,0,76.87
-WI,Wisconsin,b,1991,0,77.04
-WI,Wisconsin,b,1992,0,77.57
-WI,Wisconsin,b,1993,0,77.12
-WI,Wisconsin,b,1994,0,77.31
-WI,Wisconsin,b,1995,0,77.42
-WI,Wisconsin,b,1996,0,77.53
-WI,Wisconsin,b,1997,0,77.89
-WI,Wisconsin,b,1998,0,77.75
-WV,West Virginia,b,1979,0,72.49
-WV,West Virginia,b,1980,0,72.64
-WV,West Virginia,b,1981,0,73.17
-WV,West Virginia,b,1982,0,73.45
-WV,West Virginia,b,1983,0,73.61
-WV,West Virginia,b,1984,0,73.78
-WV,West Virginia,b,1985,0,73.79
-WV,West Virginia,b,1986,0,73.58
-WV,West Virginia,b,1987,0,73.77
-WV,West Virginia,b,1988,0,73.88
-WV,West Virginia,b,1989,0,74.01
-WV,West Virginia,b,1990,0,74.43
-WV,West Virginia,b,1991,0,74.21
-WV,West Virginia,b,1992,0,74.45
-WV,West Virginia,b,1993,0,74.3
-WV,West Virginia,b,1994,0,74.84
-WV,West Virginia,b,1995,0,74.8
-WV,West Virginia,b,1996,0,74.81
-WV,West Virginia,b,1997,0,74.73
-WV,West Virginia,b,1998,0,74.84
 WV,West Virginia,b,1959,0,69.36
 WV,West Virginia,b,1960,0,69.56
 WV,West Virginia,b,1961,0,69.8
@@ -2979,6 +2899,32 @@ WV,West Virginia,b,1975,0,70.99
 WV,West Virginia,b,1976,0,71.26
 WV,West Virginia,b,1977,0,71.78
 WV,West Virginia,b,1978,0,71.83
+WV,West Virginia,b,1979,0,72.49
+WV,West Virginia,b,1980,0,72.64
+WV,West Virginia,b,1981,0,73.17
+WV,West Virginia,b,1982,0,73.45
+WV,West Virginia,b,1983,0,73.61
+WV,West Virginia,b,1984,0,73.78
+WV,West Virginia,b,1985,0,73.79
+WV,West Virginia,b,1986,0,73.58
+WV,West Virginia,b,1987,0,73.77
+WV,West Virginia,b,1988,0,73.88
+WV,West Virginia,b,1989,0,74.01
+WV,West Virginia,b,1990,0,74.43
+WV,West Virginia,b,1991,0,74.21
+WV,West Virginia,b,1992,0,74.45
+WV,West Virginia,b,1993,0,74.3
+WV,West Virginia,b,1994,0,74.84
+WV,West Virginia,b,1995,0,74.8
+WV,West Virginia,b,1996,0,74.81
+WV,West Virginia,b,1997,0,74.73
+WV,West Virginia,b,1998,0,74.84
+WV,West Virginia,b,1999,0,74.96
+WV,West Virginia,b,2000,0,74.88
+WV,West Virginia,b,2001,0,75.1
+WV,West Virginia,b,2002,0,74.82
+WV,West Virginia,b,2003,0,74.9
+WV,West Virginia,b,2004,0,75.16
 WV,West Virginia,b,2005,0,75.24
 WV,West Virginia,b,2006,0,75.25
 WV,West Virginia,b,2007,0,75.09
@@ -2986,19 +2932,73 @@ WV,West Virginia,b,2008,0,75.21
 WV,West Virginia,b,2009,0,75.23
 WV,West Virginia,b,2010,0,75.5
 WV,West Virginia,b,2011,0,75.17
-WV,West Virginia,b,1999,0,74.96
-WV,West Virginia,b,2000,0,74.88
-WV,West Virginia,b,2001,0,75.1
-WV,West Virginia,b,2002,0,74.82
-WV,West Virginia,b,2003,0,74.9
-WV,West Virginia,b,2004,0,75.16
-WV,West Virginia,b,2018,0,74.72
-WV,West Virginia,b,2014,0,75.33
-WV,West Virginia,b,2015,0,75.16
 WV,West Virginia,b,2012,0,75.27
 WV,West Virginia,b,2013,0,75.42
+WV,West Virginia,b,2014,0,75.33
+WV,West Virginia,b,2015,0,75.16
 WV,West Virginia,b,2016,0,74.87
 WV,West Virginia,b,2017,0,74.64
+WV,West Virginia,b,2018,0,74.72
+WI,Wisconsin,b,1959,0,71.18
+WI,Wisconsin,b,1960,0,71.11
+WI,Wisconsin,b,1961,0,71.69
+WI,Wisconsin,b,1962,0,71.69
+WI,Wisconsin,b,1963,0,71.51
+WI,Wisconsin,b,1964,0,71.8
+WI,Wisconsin,b,1965,0,71.63
+WI,Wisconsin,b,1966,0,71.74
+WI,Wisconsin,b,1967,0,72.21
+WI,Wisconsin,b,1968,0,71.85
+WI,Wisconsin,b,1969,0,72.18
+WI,Wisconsin,b,1970,0,72.47
+WI,Wisconsin,b,1971,0,72.93
+WI,Wisconsin,b,1972,0,72.81
+WI,Wisconsin,b,1973,0,73.17
+WI,Wisconsin,b,1974,0,73.47
+WI,Wisconsin,b,1975,0,73.99
+WI,Wisconsin,b,1976,0,74.28
+WI,Wisconsin,b,1977,0,74.76
+WI,Wisconsin,b,1978,0,74.74
+WI,Wisconsin,b,1979,0,75.37
+WI,Wisconsin,b,1980,0,75.29
+WI,Wisconsin,b,1981,0,75.55
+WI,Wisconsin,b,1982,0,75.94
+WI,Wisconsin,b,1983,0,76
+WI,Wisconsin,b,1984,0,76.13
+WI,Wisconsin,b,1985,0,76.36
+WI,Wisconsin,b,1986,0,76.3
+WI,Wisconsin,b,1987,0,76.49
+WI,Wisconsin,b,1988,0,76.51
+WI,Wisconsin,b,1989,0,76.82
+WI,Wisconsin,b,1990,0,76.87
+WI,Wisconsin,b,1991,0,77.04
+WI,Wisconsin,b,1992,0,77.57
+WI,Wisconsin,b,1993,0,77.12
+WI,Wisconsin,b,1994,0,77.31
+WI,Wisconsin,b,1995,0,77.42
+WI,Wisconsin,b,1996,0,77.53
+WI,Wisconsin,b,1997,0,77.89
+WI,Wisconsin,b,1998,0,77.75
+WI,Wisconsin,b,1999,0,77.8
+WI,Wisconsin,b,2000,0,77.97
+WI,Wisconsin,b,2001,0,78.08
+WI,Wisconsin,b,2002,0,78.14
+WI,Wisconsin,b,2003,0,78.52
+WI,Wisconsin,b,2004,0,78.88
+WI,Wisconsin,b,2005,0,78.73
+WI,Wisconsin,b,2006,0,79.11
+WI,Wisconsin,b,2007,0,79.15
+WI,Wisconsin,b,2008,0,79.31
+WI,Wisconsin,b,2009,0,79.8
+WI,Wisconsin,b,2010,0,79.64
+WI,Wisconsin,b,2011,0,79.52
+WI,Wisconsin,b,2012,0,79.74
+WI,Wisconsin,b,2013,0,79.52
+WI,Wisconsin,b,2014,0,79.66
+WI,Wisconsin,b,2015,0,79.57
+WI,Wisconsin,b,2016,0,79.38
+WI,Wisconsin,b,2017,0,79.4
+WI,Wisconsin,b,2018,0,79.44
 WY,Wyoming,b,1959,0,70.01
 WY,Wyoming,b,1960,0,69.17
 WY,Wyoming,b,1961,0,70.58
