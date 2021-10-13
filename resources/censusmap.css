@@ -14,11 +14,17 @@ h1 {
 
 #note {
   font-size: 10px;
-  width: 35%;
+  width: 60%;
+  float:left;
 }
 
 #map {
   float:left;
+}
+
+#line {
+  float:left;
+
 }
 
 charts {
