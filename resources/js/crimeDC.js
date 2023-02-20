@@ -22,7 +22,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     id: 'mapbox/streets-v11',
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: 'pk.eyJ1IjoibS1tYXJ0IiwiYSI6ImNrajlhY3loZzBnbTAyem4wNmFpNXVqNzUifQ._1LnJ7_l8jZ-FjfqZX-ZGg'
+    accessToken: ''
 }).addTo(defaultMap);
 
 function doStuff(data) {
